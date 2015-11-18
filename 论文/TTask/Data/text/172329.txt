@@ -1,0 +1,27 @@
+It seemed too good to be true, and perhaps that should have been the first warning.  "Haystack" was said to be just the needed tool for Iranian democracy activists to break through governmenta...Technically, "Haystack" was born June 16, 2009, when the young computer programmer Austin Heap announced his goal of offering Internet relays to Iranians trying to get news into and out of their nation.  "When I woke up this morning," Heap wrote in Salon.com, "I had received more than 300 e-mails from volunteers trying to contribute and lighting the path forward for a movement that is both new and old."  He ended his call for action by writing "The revolution may not be televised, but it will be tweeted."
+
+It took just one day for the media to notice.  BBC, among other news outlets, lauded Heap as being at the forefront of a "Twitter revolution."  Heap and colleagues began work on what eventually would become Haystack.
+
+Within a scant two months, Heap began suggesting his new circumvention tool was nearly ready for beta-testing - a remarkably short turn-around for a complicated anti-censorship program. Unlike traditional software used to breach Internet firewalls, Haystack was said to work by hiding a user's ID and web browsing in a flurry of traditional, and uncontroversial web traffic.  Government censors, went the claim, would only see visits to innocuous websites, hiding the real browsing like a needle in a haystack.
+
+Within months Heap went from virtual unknown to celebrated freedom activist, and Haystack was winning converts - at least among the media.  He was named "Innovator of the Year" by the Guardian, and the Christian Science Monitor said Haystack would give hope to Iranians seeking to break through Tehran's censorship.  Crucially, the U.S. State Department in March issued a special license to Haystack for its distribution in Iran - all but granting Heap Washington's seal of approval.
+
+As late as August 6, 2010, Newsweek magazine said of Heap he had "...found the perfect disguise for dissidents in their cyberwar against the world's dictators."
+
+Except none of it was true.  Haystack didn't work as its founders said.  It never underwent extensive testing, and may have exposed those unknown few in Iran who tried it to detection by authorities.  On September 14, Heap's collaborator Daniel Colascione announced the end of Haystack.  "I regret that we exposed anyone to undue risk, and that we deprived citizens of the effective anti-censorship tool that might have been," he wrote in an email.  "I regret standing silently while I listened to empty promises - and I especially regret that this whole ordeal has scarred the anti-censorship landscape so badly that it may be years before anything grows there again."
+
+How did Haystack go so wrong?
+
+"Tech writers are quick to push a story," says Jillian C. York, who blogs about the Internet from Harvard's Berkman Center for Internet and Society. "Right now a lot of the narrative is around 'net-freedom, particularly in countries such as China and Iran, and so in this case the media was quick to pick up on a story that looked like it was doing great things for the Iranian people."
+
+The problem, say experts, is that while Heap was making promises about Haystack, he wasn't letting anyone explore it or view its source-code.  Heap's claims were just that, and says York, many journalists may just not have had the skills to accurately assess their credibility.
+
+To be fair, while more traditional media were lauding Heap, there were also skeptical voices online, such Internet security writer Bruce Schneier and Evgeny Morozov, a visiting scholar at the New America Foundation.  "Something just doesn't feel right about Haystack," wrote Morozov on September 2.  "What really bothers me is that one cannot download and examine their software; as far as the Internet is concerned, Haystack doesn't exist."
+
+In the wake of Haystack's failure, there's plenty of blame going around, including some who point the finger at the U.S. State Department.  "Having the U.S. and other Western government as major actors in the Internet freedom field could present a real threat to activists who accept their support and funding," writes the Middle Eastern web activist Sami Ben Gharbia, who was critical of State's approval of Haystack - and funding of anti-censorship tools in general.  "A hyper-politicization of the digital activism movement and an appropriation of its 'success' to achieve geopolitical goals or please the Washington bubble are now considered by many as the 'kiss of death'."
+
+Voice of America's parent agency, the International Broadcasting Board, provides partial funding for the Internet anti-censorship projects Tor and Psiphon.
+
+Jillian York agrees that both the media and State Department have their share of the blame.  But she also is critical of Heap, who has gone silent since Haystack's demise.
+
+"It's imperative that creators of tools like this be cautious and make sure that they've got the right product before they start pushing it out to the media," says York.

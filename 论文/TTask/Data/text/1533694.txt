@@ -1,0 +1,129 @@
+Digital security experts say a major August cyber-attack at Saudi Arabia&#39;s top oil company appears to be the work of amateur hackers working on behalf of a nation state, and several signs point t...Digital security experts say a major August cyber-attack at Saudi Arabia's top oil company appears to be the work of amateur hackers working on behalf of a nation state, and several signs point to Iran as their sponsor.
+
+ 
+
+ The experts say the methods apparently used by the hackers to damage many of Saudi Aramco's computers pose new challenges to other companies based in the region, and to Western powers engaged in cyber warfare with Iran.
+
+ 
+
+ Several hacker groups quickly claimed responsibility for the August 15 attack on Aramco, but their identities have remained a mystery and their online claims have not been verified.
+
+ 
+
+ Iran Accused as Cyber Attacker
+
+ 
+
+ The New York Times  reported Tuesday that unnamed U.S. intelligence officials believe the attack's real perpetrator was Iran. But it said the officials offered no specific evidence to support their claim.
+
+ 
+
+ Earlier this month, Iran's National Center of Cyberspace dismissed the U.S. allegation as politically motivated. Saudi Aramco has not commented on the perpetrators of the cyber-attack, citing an ongoing investigation.
+
+ 
+
+ Seculert, an Israel-based security company specializing in advanced threat detection, said the Aramco hackers may be affiliated with a government because the virus they deployed was designed to do more than just destroy hard drives.
+
+ 
+
+ Spying for a Government?
+
+ 
+
+ Seculert chief technology officer Aviv Raff said the affected computers sent data to a machine outside of the corporate network just before their hard drives were erased by the virus, dubbed "Shamoon" by researchers.
+
+ 
+
+ "With Shamoon, [the hackers] basically [were] trying to erase evidence of other intentions, trying to cover their tracks," said Raff.
+
+ 
+
+ He said those intentions may have included spying on Saudi Aramco for a government interested in the Saudi state-owned company's major energy infrastructure.
+
+ 
+
+ Jeffrey Carr, chief executive officer of U.S. security firm Taia Global, said Shamoon appears to have been reverse-engineered from a sophisticated data-stealing virus that attacked Iranian oil ministry computers in April.
+
+ 
+
+ Amateur Results
+
+ 
+
+ But Carr, whose firm specializes in protecting data from espionage, said Shamoon failed to accomplish its data-stealing objectives.
+
+ 
+
+ "The malware had some very basic coding errors in it," he said. "[It looks like] somebody in their basement doing some coding and reverse-engineering and then sending it out. It is unlikely that this was done by a professional team."
+
+ 
+
+ Carr said several factors indicate that the Aramco hackers were working for the Iranian government. He said Iran had a motive to hire them.
+
+ 
+
+ Circumstantial Evidence
+
+ 
+
+ Tehran urged Riyadh in July not to boost Saudi oil exports while Iranian production was being cut back because of Western sanctions.
+
+ 
+
+ "Iran wanted the West to feel the pressure [from a lower global oil supply and higher prices]," Carr said. "Of course, Aramco did [raise production]. So for me, [the virus] would be a standard shot across the bow by Iran, saying we warned you."
+
+ 
+
+ Iran appears to have hacker groups capable of staging major cyber-attacks without exposing the government as the responsible party.
+
+ 
+
+ A group calling itself the Iranian Cyber Army hijacked the home page of Baidu, China's largest search engine, in January 2010, leaving a message in Farsi saying the act was a protest against foreign meddling in Iran's domestic politics.
+
+ 
+
+ Iran also has a record of reverse-engineering to acquire technology. In April, an Iranian commander said Tehran was building a copy of a U.S. drone that it captured last year and took apart. Washington has acknowledged losing the RQ-170 Sentinel.
+
+ 
+
+ Iran Challenges its Cyber Enemies
+
+ 
+
+ Iran has said it is improving its cyber warfare capabilities to defend government computers against periodic attacks that it blames on Israel and the West.
+
+ 
+
+ Stephen Cobb, a security expert at ESET North America, said a country attacked by a virus is "highly likely" to examine the code and redeploy it.
+
+ 
+
+ "Malicious code is entirely different from conventional weapons in that you are actually giving the weapon to the person you are attacking," he said.
+
+ 
+
+ "It is extremely arrogant to think that the country you are attacking is not going to be able to figure out what the code does and reuse it, or write their own code and attack you back."
+
+ 
+
+ Carr of Taia Global said Iran is capable of capturing Western-made cyber tools worth millions of dollars and re-engineering them at a much lower cost.
+
+ 
+
+ A More Dangerous Insider Attack
+
+ 
+
+ Cobb said the Aramco incident also shows that companies face an escalated threat of cyber-attack from insiders. Experts have said the Shamoon virus was triggered by someone who had privileged access to the Saudi company's computers.
+
+ 
+
+ "Typically your insider threat in Western countries is to steal things or possibly exact revenge or hold the company hostage, whereas [the Aramco insider attack] was an act of destruction, and more expensive."
+
+ 
+
+ Cobb said the virus probably cost Aramco millions of dollars in lost worker productivity and unanticipated expenses, such as security experts being flown in to repair the damaged computers.
+
+ 
+
+ "You cannot assume that all the people working for a company agree with its aims and goals," Cobb said. "If someone with elevated system privileges turns against the company, there is pretty much no limit on what damage they can do."

@@ -1,0 +1,41 @@
+Iranian hackers have infiltrated major airlines, energy companies, and defense firms around the globe over the past two years in a campaign that could eventually cause physical damage, according to ...Iranian hackers have infiltrated major airlines, energy companies, and defense firms around the globe over the past two years in a campaign that could eventually cause physical damage, according to U.S. cybersecurity firm Cylance.
+
+The report comes as governments scramble to better understand the extent of Iran's cyber capabilities, which researchers say have grown rapidly as Tehran seeks to retaliate for Western cyber attacks on its nuclear program.
+
+“We believe that if the operation is left to continue unabated, it is only a matter of time before the team impacts the world's physical safety,” Cylance said in an 87-page report on the hacking campaign released on Tuesday.
+
+The California-based company said its researchers uncovered breaches affecting more than 50 entities in 16 countries, and had evidence they were committed by the same Tehran-based group that was behind a previously reported 2013 cyber attack on a U.S. Navy network.
+
+It did not identify the companies targeted, but said they included major aerospace firms, airports and airlines, universities, energy firms, hospitals, and telecommunications operators based in the United States, Israel, China, Saudi Arabia, India, Germany, France, England and others.
+
+Cylance said it had evidence the hackers were Iranian, and added the scope and sophistication of the attacks suggested they had state backing.
+
+A diplomatic representative for Iran told Reuters that Cylance's claim that that Tehran was behind the campaign was groundless.
+
+“This is a baseless and unfounded allegation fabricated to tarnish the Iranian government image, particularly aimed at hampering current nuclear talks,” said Hamid Babaei, spokesman for Iran's mission to the United Nations.
+
+Reuters was unable to independently vet the research ahead of its publication. Cylance said it has reported the alleged hacking operation to some victims as well as to the U.S. Federal Bureau of Investigation. An FBI spokesman declined comment.
+
+Cylance's research provides a new example of how governments may be using cyber technology as a tool for spying and staging attacks on rival states.
+
+Russian and Chinese hackers have been blamed for a variety of corporate and government cyber attacks, while the United States and Israel are believed to have used a computer worm to slow development of Iran's nuclear program.
+
+Tehran has been investing heavily in its cyber capabilities since 2010, when its nuclear program was hit by the Stuxnet computer virus, widely believed to have been launched by the United States and Israel. Iran has said its nuclear program is intended for the production of civilian electricity, and denies Western accusations it is seeking to build a nuclear bomb.
+
+Cylance Chief Executive Stuart McClure said the Iranian hacking group has so far focused its campaign - dubbed Operation Cleaver - on intelligence gathering, but that it likely has the ability to launch attacks.
+
+He said researchers who succeeded in gaining access to some of the hackers' infrastructure found massive databases of user credentials and passwords from organizations including energy, transportation, and aerospace companies, as well as universities. He said they also found diagrams of energy plants, screen shots demonstrating control of the security system for a major Middle Eastern energy company, and encryption keys for a major Asian airline.
+
+“If they already have that access, the ability to get access to do real damage is trivial,” he said.
+
+In 2012, cyber attackers damaged some 30,000 computers at Saudi Arabia's national oil company with a virus known as Shamoon, in one of the most destructive such strikes conducted against a single business. Some U.S. officials have said they believe Iran was behind that attack.
+
+Cylance said its researchers also obtained hundreds of files apparently stolen by the Iranian group from the U.S. Navy's Marine Corps Intranet (NMCI). U.S. government sources had confirmed that Iran was behind the 2013 NMCI breach, but did not provide further details.
+
+A U.S. defense official said on Monday it took about four months to “maneuver the (NMCI) network” to ensure that it was free of intruders. The official said that while the incident was officially characterized as a “serious intrusion,” no networks were damaged as a result of the breach.
+
+Cylance said that among the companies targeted in Operation Cleaver, 10 were U.S.-based. They included a major airline, natural gas production firm, an automaker, and large defense contractor.
+
+Cylance's report is the latest to show evidence of Iranian hacking of U.S. interests. Cyber security firm FireEye Inc in May said that an Iranian hacking group called the Ajax Security Team was behind an ongoing series of attacks on U.S. defense companies.
+
+The cyber intelligence firm iSight Partners also reported in May that it had uncovered an unprecedented, three-year campaign in which Iranian hackers had created false social networking accounts and a bogus news website to spy on leaders in the United States, Israel and other countries.

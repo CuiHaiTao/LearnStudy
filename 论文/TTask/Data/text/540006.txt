@@ -1,0 +1,29 @@
+When Internet use began to catch on in China about seven years ago, some thought it might provide a vehicle for more openness, including political dissent and wider anti-government organizing.  ...When Internet use began to catch on in China about seven years ago, some thought it might provide a vehicle for more openness, including political dissent and wider anti-government organizing. A new study by Harvard University researchers indicates that does not seem to be the case.
+
+Harvard University researcher Benjamin Edelman said China blocks tens of thousands of Internet websites, preventing Chinese Internet users from seeing information about news, politics, entertainment, religion, and education. "So far all indications are that China is winning this 'arms race,' so to speak. As the Internet community develops additional ways of getting information into China, China seems to be pretty good at finding those ways and blocking them," he said.
+
+Mr. Edelman and his colleagues at the Berkman Center for Internet and Society at Harvard Law School have been conducting a survey of Internet accessibility in China. "We conduct the survey by connecting to the Internet through China. Sometimes we call China with our modems, just making ordinary dial-up telephone calls to China. Sometimes we connect to computers in China that are thankfully, happy to assist us," he said.
+
+The researchers tried to contact more than 200,000 distinct web sites from May through November, using equipment that simulated calls from within China. Their report said more than 50,000 sites were inaccessible from at least one point in China on at least one occasion. The researchers found more than 19,000 websites were not accessible in China on multiple occasions, yet they were accessible from the United States.
+
+Mr. Edelman said the group found that China blocks fewer web sites with sexually explicit content than Saudi Arabia, another country studied by the research team, but China blocks access to a considerably wider spectrum of Internet content than any other country under study, including Vietnam and the United Arab Emirates.
+
+"It's as if China just took perhaps a tenth or twentieth of the web and chopped it off, made it inaccessible from within China," Mr. Edelman explained.
+
+In addition to blocking politically sensitive material and some sexually explicit web sites, the Harvard study found China also blocks access to health information sites, including sources for information about AIDS and mental health, as well as the web sites of some well-known educational institutions, such as the University of Virginia and MIT. Mr. Edelman says China's method of restricting access is relatively crude.
+
+"When China wants to block one page on a site, they have to block all the other pages on the site, and indeed all the other sites that happen to use that same server. So, if the server has one site about politics in China and 10 other sites about entertainment, and religion and news, all of those other sites would have to be blocked in order for China to succeed in blocking the first site about politics," he said.
+
+Mr. Edelman said China's system of blocking Internet access is labor intensive, with people constantly paying attention to new information as it is posted on the Internet. Sometimes, he says, controversial web pages are blocked within hours of their first appearance.
+
+The Washington director for Asia at Human Rights Watch, Mike Jendrzejczyk, said the Internet has allowed some expansion of expression in China. "In some cases, domestically, I think the Internet has been important in exposing corruption, forcing government authorities and the official media to pay attention to major problems, for example, a coal mining disaster that occured earlier this year that was covered up by the official media," he said.
+
+But Mr. Jendrzejczyk said the Chinese government has swiftly shut down any efforts to use the Internet to discuss human rights or political reform. "I think the government is trying in every way possible, with more than 60 regulations now in place regulating web content and web access, trying to control the way the Internet is used, hoping that China can reap some of the benefits in terms of economic development, but at the same time the government being very worried about the Internet being used to in any way promote what they would view as subversion or opposition to the government and the Communist Party," he said.
+
+China has arrested at least two Chinese dissidents for posting anti-government material on the Internet, and authorities have imposed tight regulations on Internet cafes so they can closely monitor what kinds of web sites young people are visiting on the Internet.
+
+Mr. Jendrzejczyk said China is also trying to restrict the operations of foreign companies involved in providing Internet access or content in China.
+
+"I think foreign companies are also under enormous pressure to comply with these regulations, including regulations that they violate their own privacy agreements with their subscribers to report to the police anyone using the internet to download information that the government deems offensive or potentially politically subversive," Mr. Jendrzejcyk explained. "We were quite disappointed when earlier this year Yahoo voluntarily signed a trade association sponsored voluntary pledge of self-discipline for the internet industry committing itself to remove from its site in China any information the government claimed could jeopardize security, disrupt stability, or spread superstition," he said.
+
+Mr. Jendrzejczyk says foreign companies should be willing to stand up for freedom of expression and support the rights of Chinese Internet users by telling the Chinese government there are some lines they are not willing to cross.

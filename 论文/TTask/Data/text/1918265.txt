@@ -1,0 +1,81 @@
+A tense stand-off between the United States and China over state-backed cyber espionage has dragged China&#39;s secretive hacking unit &ldquo;61398&rdquo; back into focus, after the military group wa...A tense stand-off between the United States and China over state-backed cyber espionage has dragged China's secretive hacking unit “61398” back into focus, after the military group was pinpointed last year for mounting cyber attacks on Western commercial targets.
+
+  
+
+ U.S. authorities on Monday charged five Chinese military officers at the unit, accusing them of hacking into American nuclear, metal and solar firms to steal trade secrets. China on Tuesday summoned the U.S. ambassador in Beijing and warned it would retaliate if Washington followed through with the charges. It said the affair would damage “mutual trust.”
+
+  
+
+ At the center of the argument is a nondescript tower block in the northern suburbs of China's financial capital Shanghai, home to Chinese People's Liberation Army (PLA) Unit 61398.
+
+  
+
+ The 12-story block houses as many as several thousand staff, according to Mandiant, a U.S. cyber security firm recently acquired by global network security company FireEye Inc. Mandiant identified the location as the source of a large number of espionage operations in a 70-page report last year.
+
+  
+
+ “This unit is one of the most prolific. The group is really active and very aggressive,” said Pierluigi Paganini, a cyber security expert and founder of Security Affairs, based in Italy.
+
+  
+
+ Unit 61398's Shanghai base is kitted out with specialist fiber optic lines, while staff are trained in areas from English linguistics to covert communications, network security and cyber attack strategy, according to the Mandiant report.
+
+  
+
+ The unit's operatives, working under code names such as “UglyGorilla”, “DOTA” and “SuperHard”, also have close research and recruitment ties with China's leading academic centers such as the prestigious Shanghai Jiaotong University.
+
+  
+
+ Publicly available academic reports, school registers, recruitment notices and local online community notice boards show a web of social, educational and academic networks spreading out from the cyber spying unit. Military units in China are often organized in this way with schools, sports clubs and social events organized communally for unit members.
+
+  
+
+ Tip of the iceberg
+
+  
+
+ However, unit 61398 - more formally known as General Staff Department (GSD), Third Department, Second Bureau - is just one of dozens of similar groups based in China, and far from the foremost, said Mandiant analyst Jen Weedon.
+
+  
+
+ “The unit is one of many and its tradecraft is not that great. They are one of the ones that doesn't seem to mind leaving traces behind,” she told Reuters.
+
+  
+
+ The unit, which started operating in or before 2006, saw activity drop sharply in the wake of the 2013 Mandiant report, but has since returned to “business as usual” after it overhauled some of its hacking techniques, Weedon added.
+
+  
+
+ The new allegations are that Chinese state-owned firms “hired” the unit, which used a range of cyber attack methods to illegally gather corporate information from mostly U.S. firms and help give Chinese companies a competitive edge.
+
+  
+
+ The unit “stole sensitive, internal communications”, using tactics such as “spear phishing” emails to gain access to employees' computers, after which it was able to collect internal data, according to the indictment document, posted on the United States Department of Justice website.
+
+  
+
+ Federal prosecutors said the suspects targeted companies including Alcoa Inc, Allegheny Technologies Inc., United States Steel Corp, Toshiba Corp unit Westinghouse Electric Co, the U.S. subsidiaries of SolarWorld AG , and a steel workers' union.
+
+  
+
+ Unit 61398 - or at least one very much like it - also stole data from at least one U.S. government agency in a hacking campaign named 'Byzantine Candor', according to diplomatic cables released by Wikileaks.
+
+  
+
+ “Hackers based in Shanghai and linked to the PRC's People's Liberation Army [PLA] Third Department” stole data from at least one U.S. government agency, according to a leaked 2008 cable.
+
+  
+
+ Officials in Washington have argued for years that cyber espionage is a top national security concern, and the battle is heating up. Both sides have ramped up public and private confrontation, including at a summit last year between U.S. President Barack Obama and Chinese President Xi Jinping.
+
+  
+
+ China has denied the unit is involved in cyber espionage, and insists the country is more a victim than a perpetrator of cyber attacks.
+
+  
+
+ Paganini said he was not surprised at the latest turn of events, which he described as just the “tip of the iceberg”.
+
+  
+
+ “I believe there's an ongoing battle in the cyberspace. These countries are investing large amounts in cyber units that are able to create specific malware and have the ability to get into foreign networks and computers to steal trade secrets and intellectual properties,” he said.

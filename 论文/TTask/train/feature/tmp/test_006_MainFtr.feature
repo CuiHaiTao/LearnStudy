@@ -1,0 +1,160 @@
+O_5Feature Wadv_1Feature
+O_5Feature
+CMBS_A
+Cadv_2Feature
+Att_1Feature
+Att_1Feature
+Ccsadv_5Feature
+Att_FirstFeature Att_1Feature
+O_5Feature
+Att_4Feature
+O_3Feature
+NoN
+Att_4Feature
+O_2Feature
+Att_FirstFeature Ccsadv_3Feature
+Fst_ApposFeature
+PRD_1Feature Fst_ApposFeature
+SS_A
+O_5Feature Wadv_1Feature
+Tadv_6Feature
+O_1Feature Cadv_2Feature
+CMAS_A
+Att_1Feature
+Radv_FirstFeature CMAS_A
+NoN
+O_5Feature Fst_ApposFeature
+NoN
+Att_4Feature
+O_5Feature Wadv_1Feature
+Tadv_2Feature
+PRD_1Feature Fst_ApposFeature
+O_5Feature CMCS_A
+NoN
+NoN
+O_2Feature
+Att_FirstFeature
+Fst_ApposFeature
+Att_FirstFeature Att_1Feature CMBS_A
+O_5Feature Ccsadv_6Feature Mnradv_3Feature
+Fst_ApposFeature
+NoNP2 O_5Feature
+Tadv_8Feature
+O_1Feature Tadv_8Feature
+Natt_1Feature
+SS_A
+PRD_1Feature
+Att_4Feature
+NoN
+Att_4Feature Ccsadv_6Feature Mnradv_3Feature
+Natt_1Feature
+CMBS_A
+PRD_1Feature CMCS_A CMCS_A
+O_1Feature Cmpadv_3Feature
+O_2Feature Cmpadv_2Feature
+O_3Feature
+O_2Feature O_2Feature Att_FirstFeature Att_1Feature
+O_5Feature Cadv_1Feature
+O_5Feature Ccsadv_6Feature
+Fst_ApposFeature
+Att_4Feature
+Att_4Feature Att_4Feature Cmpadv_1Feature
+Att_FirstFeature
+NoN
+Att_1Feature
+PRD_1Feature Fst_ApposFeature
+NoN
+Att_4Feature
+O_3Feature
+Fst_ApposFeature Tadv_8Feature
+O_5Feature Tadv_8Feature
+Att_FirstFeature Att_1Feature
+NoNP2 O_5Feature
+NoN
+SS_A
+Cadv_2Feature
+Cmpadv_3Feature
+CMBS_A
+Att_4Feature
+NoN
+Att_1Feature
+Att_3Feature
+Att_1Feature Ccsadv_3Feature
+CMBS_A
+Rsladv_FirstFeature
+Att_3Feature Tadv_7Feature
+O_5Feature Wadv_1Feature
+NoN
+Fst_ApposFeature
+PRD_1Feature
+SS_A
+Cadv_2Feature
+Att_FirstFeature Att_1Feature
+Tadv_6Feature Wadv_1Feature
+O_5Feature Cadv_FirstFeature
+Wadv_1Feature
+Att_1Feature
+Att_4Feature
+Fst_ApposFeature
+SS_A
+O_2Feature Fst_ApposFeature
+SS_A
+NoNP2 Fst_ApposFeature
+NoN
+Att_FirstFeature Att_1Feature
+CMBS_A
+NoN
+SS_A
+Att_1Feature
+NoN
+Wadv_1Feature
+Att_1Feature
+CMRS_A CMRS_A
+Att_4Feature Ccsadv_6Feature Mnradv_3Feature
+Cadv_2Feature
+O_2Feature Fst_ApposFeature
+Att_4Feature
+PRD_1Feature Fst_ApposFeature
+O_2Feature Fst_ApposFeature
+O_1Feature
+NoN
+Tadv_8Feature
+Tadv_6Feature
+Radv_FirstFeature CMRS_A
+O_2Feature Att_1Feature Rsladv_FirstFeature
+Att_4Feature
+NoNP2 Fst_ApposFeature
+NoN
+NoN
+SS_A
+O_5Feature
+Ccsadv_FirstFeature
+NoN
+Att_1Feature
+Ccsadv_FirstFeature
+Fst_ApposFeature
+Att_FirstFeature Att_1Feature
+CMCS_A
+O_1Feature Tadv_8Feature
+SS_A
+Att_4Feature
+Att_1Feature
+O_2Feature Tadv_8Feature
+Tadv_2Feature
+Fst_ApposFeature Att_FirstFeature
+Att_FirstFeature Att_1Feature
+SS_A
+O_3Feature Att_1Feature
+Att_4Feature
+O_2Feature Att_4Feature Ccsadv_FirstFeature Ccsadv_6Feature Mnradv_3Feature
+Ccsadv_1Feature
+Att_1Feature
+O_5Feature
+O_5Feature Ccsadv_6Feature Mnradv_3Feature
+O_2Feature
+O_1Feature
+CMRS_A
+Cadv_2Feature
+O_5Feature Att_FirstFeature
+PRD_1Feature Fst_ApposFeature Att_FirstFeature
+Att_1Feature

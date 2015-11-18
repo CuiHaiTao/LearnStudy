@@ -1,0 +1,41 @@
+Every day, millions of shipping containers export goods from Asia to other parts of the world. In the cycle of global trade, these containers would be used to bring imported goods back to their Asia...Every day, millions of shipping containers export goods from Asia to other parts of the world. In the cycle of global trade, these containers would be used to bring imported goods back to their Asian home ports. But, because of trade imbalances, many return empty. Storing and moving empty cargo containers impose huge costs and waste valuable space and energy. VOA Correspondent Steve Herman reports from New Delhi that an Indian invention could eventually cut in half the total volume of empty containers shipped.
+
+In ports, on ships, rail cars and trucks they are ubiquitous - those reusable steel rectangular boxes that carry the bulk of the world's international cargo.
+
+Every year nearly 150 million of the standard sized containers are on the move. But an imbalance of trade has caused shippers a major headache. Consumer goods made in Asia fill those containers headed for the Americas, Europe and Africa but they return mostly empty. And moving and storing those empties costs freight haulers and shipping companies tens of billions of dollars per year.
+
+That got investment banker Avinder Bindra thinking as he stared out of his office window overlooking Hong Kong's port a few years ago, noticing the stacks of containers growing higher and higher.
+
+"I found out that it was a problem because a lot of the containers were coming back empty," said Bindra. "In fact some of them were being used to bring back scrap and wastepaper which were really very low volume just to generate some revenue. But the bulk of them, almost 20, 23 percent of the volume of container movement globally is of empties."
+
+Bindra, who now lives in New Delhi, found a solution to the expensive quandary of how to handle all those empty containers.
+
+"As you can look around probably a lot of these containers which are lying around are empty," he said. "Now if you can just imagine a picture where you can fold or where you can keep four containers in the space of one - in other words you have four containers, imagine the land which is being freed up. So you will be able to store the same amount of containers in one quarter the size of this plot."
+
+Bindra was not the first person with such an idea. Others had tried but failed to create a replacement that would be as sturdy as the conventional container. But Bindra thought the brains at the mechanical engineering department of the Indian Institute of Technology might be able to devise a feasible design that would fold automatically. He approached professors Anoop Chawla and his colleague, Sudipto Mukherjee.
+
+"In our design what we managed to achieve is that there are very stringent specifications on how much load it has to take and how much deformation it will allow," said Mukherjee. "So the folding scheme that we have allows the container to take that load which a normal non-folding container would do."
+
+Mukherjee adds that their design is feasible because a simple folding mechanism - a hydraulic base station - operated by one or two unskilled workers can collapse containers horizontally and stack them in several minutes.
+
+Professor Chawla says, in retrospect, the design looks simple, but took three years to go from the drawing board to something viable.
+
+"One often hears of cases when a product is designed on the board and it never sees the light of the day, the light at the end of the tunnel," he said. "So it was very nice to see something working and we really hope it takes off commercially also."
+
+There is a significant monetary incentive for the shipping industry to minimize empty containers. To recover the costs of containers returning empty, shipping companies impose stiff surcharges on full containers exported from industrialized nations. One consulting firm estimates that ocean carriers spend about $16 billion annually just moving the empties to the next loading point.
+
+The IIT professors say they have accomplished their mission and handed the project back to the investment banker who initially approached them.
+
+"Now most of the work is with Mr. Bindra to try and commercialize it," said Mukherjee. "But it's there and over the years there can be many more variants of this. We're looking at something in which you can load water. It will mostly be covered by the same sort of patents that we have so we have to look at it."
+
+Bindra says the next step is getting a prototype certified by global agencies, which have to approve the sea-worthiness of any container model.
+
+"And once that is done then it'll be fit to be used on the ships," he said. "So that's the status right now. And we're optimistic we will be able to achieve that in about nine to 12 months time."
+
+Although the foldable container will cost ten to 15 percent more than a conventional one, shippers should be able to recoup the additional cost within one or two sea journeys.
+
+It is predicted that within the next 15 years, about 350 million container units will be transported annually.
+
+If a foldable variety is among those, the professors could end up with containers of cash. The scholars have agreed to share the intellectual property rights for the invention with the investment banker.
+
+The trio says the feedback from the shipping industry has been enthusiastic. They plan to license the foldable containers to manufacturers in China and other countries.

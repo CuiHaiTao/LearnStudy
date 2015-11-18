@@ -1,0 +1,160 @@
+I do it because I like it.	RADVC	RADVC	0.682	0.682
+No matter who you are, you must keep the law.	CCSADVC	ATC	0.365	0.345
+No matter what you say, I won't believe you.	CCSADVC	CCSADVC	0.987	0.987
+He is wondering when can he finish this difficult job.	OC	TADVC	0.427	0.077
+That he will not come to the meeting this evening is true.	SC	SC	0.467	0.467
+She was very patient towards the children,which her husband seldom was.	ATC	NATC	0.981	0.017
+He is the last man that I want.	ATC	ATC	0.995	0.995
+I was deep in gambling when the police entered.	TADVC	TADVC	0.582	0.582
+The question is who we should trust.	PC	PC	0.971	0.971
+It is a mystery to me how it all happened.	SC	SC	0.891	0.891
+These apple trees,which I planted three years ago,have not borne any fruit.	ATC	NATC	0.990	0.009
+The school which he once studied in is very famous.	ATC	ATC	0.938	0.938
+It was an exciting game, although no goals were scored.	CCSADVC	CCSADVC	0.984	0.984
+Hard though he works, he makes little progress.	CCSADVC	CCSADVC	0.998	0.998
+I will stay here provided the climate agrees with me.	CADVC	CADVC	0.970	0.970
+He was on the point of leaving when someone knocked at the door.	TADVC	ATC	0.878	0.085
+The audience applauded John when he ended his speech.	TADVC	TADVC	0.509	0.509
+While Jim was mending his bike, Lin Tao came to see him.	TADVC	TADVC	0.661	0.661
+He works hard in order that his family may be happy.	PADVC	PADVC	0.294	0.294
+As we've no money,we can't buy it.	RADVC	RADVC	0.181	0.181
+Which of the books that you bought yesterday was written by Bacon?	ATC	ATC	0.659	0.659
+Nobody is going to buy a house whose front door opens onto a gas works.	ATC	ATC	0.790	0.790
+I like the girl , who is making a pose.	ATC	NATC	0.976	0.019
+She drives better than her husband does.	CMPADVC	PADVC	0.977	0.009
+I don't know the reason why he looks unhappy today.	ATC	ATC	0.911	0.911
+He walked forward as though making a speech.	MNRADVC	RADVC	0.936	0.002
+Wherever you work, you will gain much valuable experience as long as you are willing to work.	WADVC	CCSADVC	0.353	0.178
+There was a suggestion that Brown should be dropped from the team.	AC	ATC	0.745	0.081
+Since we've no money, we can't buy it.	RADVC	CCSADVC	0.196	0.079
+I not only heard it but also saw it.	CMAS	CMAS	0.327	0.327
+Can you tell me whether it will rain or not tomorrow?	CCSADVC	OC	0.919	0.013
+Although he was worn out, he kept on working.	CCSADVC	CCSADVC	0.997	0.997
+I found the book easy.	SS	OC	0.268	0.089
+He not only works hard but also he is handsome.	CMAS	CMAS	0.326	0.326
+She looked down so that she should not see his eyes.	PADVC	PADVC	0.803	0.803
+They completely ignore these facts as if they never existed.	RADVC	MNRADVC	0.947	0.052
+The general gave the order that the soldiers should cross the river at once.	AC	AC	0.429	0.429
+It is not as easy as you think.	PADVC	CMPADVC	0.957	0.002
+The trouble is that we are short of funds.	PC	ATC	0.620	0.280
+She is always careless,which we should not be.	ATC	NATC	0.980	0.009
+Sun Yida, whom everyone likes very much, is one of the best athletes in our class.	NATC	ATC	0.996	0.002
+The sun heats the earth , which makes it possible for plants to grow.	ATC	NATC	0.986	0.012
+I have changed it as you suggest.	RADVC	OC	0.552	0.142
+Unless you listen carefully, you won't know the answer.	CADVC	CCSADVC	0.415	0.200
+Though all the world were against me, I would still hold to my opinion.	CCSADVC	CCSADVC	0.630	0.630
+As all the seats were full,he stood up.	RADVC	ATC	0.181	0.147
+You must speak louder so that you can be heard by all.	PADVC	PADVC	0.456	0.456
+The house where I lived ten years ago has been pulled down.	ATC	PC	0.478	0.388
+China is no longer what she used to be.	PC	PC	0.923	0.923
+The bike and its rider that had run over an old man were taken to the police station.	ATC	AC	0.452	0.450
+The suggestion that the new rule be adopted came the chairman.	AC	AC	0.851	0.851
+The novel is very interesting, which made me very glad.	ATC	NATC	0.981	0.016
+He told that he would go to the college the next year.	OC	OC	0.983	0.983
+I don't know whom you should depend on.	OC	OC	0.579	0.579
+This is the point,from which all distances are measured.	ATC	ATC	0.991	0.991
+I admire the man , who wears a big smile.	ATC	NATC	0.977	0.014
+I have changed it as you suggest.	MNRADVC	OC	0.552	0.041
+Seize the chance, otherwise you'll regret.	CMBS	CMCS	0.241	0.024
+The fact that the money has gone does not mean it was stolen.	AC	PC	0.531	0.073
+There were more casualties than was reported.	PADVC	CMPADVC	0.976	0.008
+PLACE, which was founded in TIME, is becoming more and more powerful.	ATC	NATC	0.988	0.011
+He was working in a shoes factory and now he retires.	CMAS	ATC	0.410	0.065
+Man developed earlier than people think.	CMPADVC	CMPADVC	0.491	0.491
+He worked day and night, therefore, he was able to buy the sports car.	CMFS	ATC	0.278	0.055
+I help him and he helps me.	CMAS	CMAS	0.557	0.557
+I hope you like it as much as I do.	PADVC	CMPADVC	0.965	0.003
+I am sure I will pass the exam.	OC	OC	0.371	0.371
+I still remember the day when I first came to this school.	ATC	TADVC	0.946	0.034
+Granted that you are made some progress, you should not be conceited.	CCSADVC	CCSADVC	0.934	0.934
+It is known to all that light travels in straight lines.	SC	ATC	0.452	0.228
+He has a son , who is an actor.	ATC	NATC	0.969	0.023
+They will go where they are happy.	WADVC	WADVC	0.873	0.873
+You may go anywhere you like.	WADVC	WADVC	0.859	0.859
+Keep it where you can see it.	WADVC	WADVC	0.942	0.942
+He looks as though he had been hit by lightning.	RADVC	MNRADVC	0.971	0.007
+The sun not only gives us the light but also it gives us heat.	CMAS	ATC	0.416	0.092
+It is such nice weather that I would like to go to the beach.	RSLADVC	SC	0.712	0.003
+My question is who will take over president of the Foundation.	PC	PC	0.515	0.515
+Provided you clear your desk by this evening, you can have tomorrow off.	CADVC	CADVC	0.979	0.979
+He's such a good person that we mustn't blame him.	RSLADVC	ATC	0.552	0.088
+That's where I first met her.	PC	PC	0.970	0.970
+The agument is whether it rains tomorrow.	PC	PC	0.956	0.956
+They arrived where they had fallen in love ten years ago.	WADVC	WADVC	0.489	0.489
+We can walk there if we can't find a bus.	CADVC	WADVC	0.717	0.017
+I apologized to her, for I had wronged her.	CMFS	CMFS	0.496	0.496
+I found it impossible that he could finish it in such a short	OC	OC	0.895	0.895
+The number of people that come to visit this city each year reaches one million.	ATC	ATC	0.727	0.727
+If it rains tomorrow, we will not go to the zoo.	CADVC	CADVC	0.868	0.868
+Last TIME I visited the People's Great Hall, in which many important meetings are held every year.	NATC	ATC	0.996	0.003
+The time when we got together finally arrived.	ATC	TADVC	0.865	0.033
+He gives the driest speech that I have ever listened to.	ATC	ATC	0.722	0.722
+He has solved the problem why the radio was out of order.	AC	ATC	0.419	0.138
+The trouble is that I have lost his address.	PC	ATC	0.903	0.026
+I have some things that I must do today.	ATC	ATC	0.529	0.529
+It's time of year for the rice harvest, so every day I work from dawn until dark.	CMFS	ATC	0.365	0.280
+Man developed earlier than people think.	PADVC	CMPADVC	0.491	0.318
+I read as many pages as they are required to be read.	CMPADVC	PADVC	0.972	0.002
+We all cheer up when we heared the news that our team won the first prize.	AC	OC	0.804	0.078
+Light is the fast thing in the world, the speed of which is 300000 kilometer per second.	NATC	ATC	0.997	0.003
+Lally was right about the repairs which the cottage needed.	ATC	ATC	0.963	0.963
+They were faced with the demand that this tax be abolished.	AC	ATC	0.893	0.031
+I bought a present and he likes it very much.	CMAS	CMAS	0.424	0.424
+I will tell my friends to protect the trees.	SS	CADVC	0.237	0.006
+The boy, whose father is an engineer, studies very hard.	ATC	NATC	0.977	0.017
+When the war ended,millions had been killed.	TADVC	TADVC	0.580	0.580
+Man grows faster than the planet he inhabits.	PADVC	CMPADVC	0.973	0.006
+They were worried over the fact that you were sick.	AC	ATC	0.610	0.209
+The possibility that the majority of the labour force will work at home is often discussed.	AC	ATC	0.976	0.008
+Since you're not interested,I won't tell you about it.	RADVC	CCSADVC	0.259	0.049
+I heard the news that our team had won.	AC	AC	0.515	0.515
+Xiao Wang has solved the problem why the TV was out of order.	AC	PC	0.262	0.117
+The play,whose style is informal,is popular with the young people.	ATC	NATC	0.988	0.010
+You'll have to attend the ceremony whether you're free or busy.	CCSADVC	OC	0.865	0.002
+The Thames, which is now clean enough to swim in, was polluted for over a hundred years.	ATC	NATC	0.988	0.010
+He looks as if he had been hit by lightning.	RADVC	MNRADVC	0.997	0.002
+The weather is not so cold as it was last winter.	CMPADVC	PADVC	0.971	0.002
+I never heard such stories as he tells.	ATC	CCSADVC	0.136	0.040
+Peter, whom you met in PLACE, is now back in PLACE.	NATC	ATC	0.985	0.007
+He forgot to bring his pen with him, as was often the case.	ATC	NATC	0.980	0.011
+The thought came to him that maybe the enemy had fled the city.	AC	ATC	0.693	0.085
+The person that you introduced to me is very kind.	ATC	ATC	0.913	0.913
+I like tea while she likes coffee.	CMBS	ATC	0.203	0.057
+I don't know if there will be a bus any more.	OC	SC	0.329	0.114
+No matter which book you borrow, you must return it in a week.	CCSADVC	CCSADVC	0.926	0.926
+During this terrible year they took only such food as they could find.	ATC	PADVC	0.527	0.133
+When we'll start tomorrow will be told soon.	SC	TADVC	0.232	0.227
+We decided whether to walk there.	OC	OC	0.489	0.489
+The man whom we sent the present to is a doctor of laws.	ATC	ATC	0.999	0.999
+The question who will take his place is still not clear.	AC	ATC	0.473	0.290
+There are 30 chairs in the small hall, most of which are new.	ATC	NATC	0.981	0.018
+The headmaster hopes everything goes well.	OC	SS	0.222	0.026
+It remains to be seen whether it will do us harm or good.	SC	SC	0.389	0.389
+They are familiar with the opinion that all matter consists of atoms.	AC	ATC	0.986	0.002
+He woke up as suddenly as he had fallen asleep.	PADVC	CMPADVC	0.971	0.001
+I will go providing that my expenses are paid.	CADVC	CADVC	0.995	0.995
+Granting that you are made some progress, you should not be conceited.	CCSADVC	CCSADVC	0.953	0.953
+I have never seen such a man as you talked about.	ATC	ATC	0.258	0.258
+The shop sells so expensive goods that I want to buy nothing in it.	RSLADVC	ATC	0.889	0.003
+What we need is money.	SC	SC	0.912	0.912
+All the presents that your friends give you on your birthday should be put away.	ATC	ATC	0.428	0.428
+He feels no better today than he did yesterday.	PADVC	CMPADVC	0.974	0.007
+I heard it said that he had gone abroad.	OC	OC	0.455	0.455
+We will put off the outing until next week,when we won't be so busy.	ATC	NATC	0.980	0.005
+I went to bed at ten,before when I was reading for an hour.	NATC	ATC	0.971	0.001
+They went to PLACE,where they lived for six months.	NATC	ATC	0.982	0.002
+I am sorry to trouble you, but can you show me the way to the park.	CMBS	OC	0.473	0.018
+That's what we are here for.	PC	PC	0.996	0.996
+She looks very young, but she is already in her 30's.	CMBS	CCSADVC	0.296	0.052
+We all find it important that we make a quick decision about	OC	OC	0.339	0.339
+Good technique means less pain and fewer deaths; therefore it¡¯s our duty to master it.	CMFS	PADVC	0.327	0.008
+They expressed the wish that she accept the award.	AC	ATC	0.556	0.041
+He walked forward as though making a speech.	RADVC	RADVC	0.936	0.936
+Wherever I am I will be thinking of you.	WADVC	WADVC	0.423	0.423
+He is generous.	SS	SS	0.229	0.229
+The winters in Hangzhou are not so mild as they are in Guangzhou.	CMPADVC	PADVC	0.988	0.001
+He fell off his horse as if he had been shot.	RADVC	MNRADVC	0.984	0.007
+Whoever you are, you must keep the law.	CCSADVC	CCSADVC	0.510	0.510
+He walked forward as if making a speech.	MNRADVC	RADVC	0.980	0.007
+You must learn to consult your feelings and your reason when you reach any decision.	TADVC	ATC	0.679	0.270
+They had no sooner concluded the war than they were faced with pestilence.	TADVC	ATC	0.318	0.101

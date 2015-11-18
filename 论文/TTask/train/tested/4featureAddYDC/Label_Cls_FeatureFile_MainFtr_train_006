@@ -1,0 +1,707 @@
+AC	Answer my question whether you are coming .	Fst_ApposFeature
+AC	Give me your promise that you will come to our party this evening .	Fst_ApposFeature
+AC	He had no idea why she left .	Fst_ApposFeature
+AC	He has solved the problem why the radio was out of order .	Fst_ApposFeature
+AC	He has n't made the decision whether he will go there .	O_2Feature Fst_ApposFeature
+AC	He made a proposal that the meeting be postpone .	O_2Feature Fst_ApposFeature
+AC	He made clear his desire that he should work hard to go to college .	O_2Feature Fst_ApposFeature
+AC	He referred to Copernicus ' statement that the earth moves round the sun .	Fst_ApposFeature
+AC	I can understand their eagerness that you should be the main speaker .	Fst_ApposFeature
+AC	I have no idea when he will come back .	Fst_ApposFeature Tadv_8Feature
+AC	I heard the news that our team had won .	Fst_ApposFeature
+AC	It is difficult to answer your question how I did it .	Fst_ApposFeature
+AC	Our teacher gave us some advice how we should use the computer .	Fst_ApposFeature
+AC	Soon came the order that all the people should obey the rules .	Fst_ApposFeature
+AC	The fact that he had not said anything surprised everybody .	Fst_ApposFeature
+AC	The idea that you can do this work well without thinking is quite wrong .	Fst_ApposFeature
+AC	The order that we should send a few people to help the other groups was received yesterday .	Fst_ApposFeature
+AC	The plan that you will go there next week has to be changed .	Fst_ApposFeature
+AC	The possibility that the majority of the labour force will work at home is often discussed .	Fst_ApposFeature
+AC	The question whether we should call in a specialist was answered by thefamily doctor .	Fst_ApposFeature
+AC	The question who should do the work requires consideration .	Fst_ApposFeature Att_FirstFeature
+AC	The question who will take his place is still not clear .	Fst_ApposFeature Att_FirstFeature
+AC	The suggestion that the new rule be adopted came the chairman .	Fst_ApposFeature
+AC	The thought came to him that maybe the enemy had fled the city .	Fst_ApposFeature
+AC	There was a suggestion that Brown should be dropped from the team .	Fst_ApposFeature
+AC	They are familiar with the opinion that all matter consists of atoms .	Fst_ApposFeature
+AC	They expressed the wish that she accept the award .	Fst_ApposFeature
+AC	They were faced with the demand that this tax be abolished .	Fst_ApposFeature
+AC	They were worried over the fact that you were sick .	Fst_ApposFeature
+AC	We are not investigating the question whether he is trustworthy .	Fst_ApposFeature
+AC	We are not looking into the question whether he is worth trusting .	Fst_ApposFeature
+AC	We do n't understand the problem why this is the best choice .	Fst_ApposFeature
+AC	We have n't yet settled the question where we are going to spend our TIME vacation .	Fst_ApposFeature Wadv_1Feature
+AC	The news that they had won the game soon spread over the whole school .	Fst_ApposFeature
+AC	The general gave the order that the soldiers should cross the river at once .	Fst_ApposFeature
+AC	We 'll discuss the problem whether the sports meeting will be held on time .	Fst_ApposFeature
+AC	I have no impression how he went home , perhaps by bike .	Fst_ApposFeature
+ATC	During this terrible year they took only such food as they could find .	O_2Feature Att_4Feature Att_4Feature
+ATC	Football is a game which is liked by most boys .	Att_FirstFeature Att_1Feature
+ATC	Freedom is something which is won , not granted .	Att_FirstFeature Att_1Feature
+ATC	He 's not the kind of man who would go back on his words .	Att_FirstFeature Att_1Feature
+ATC	He has a friend whose father is a doctor .	Att_FirstFeature Att_1Feature
+ATC	He is a shallow thinker whose opinions are n't worth much .	Att_FirstFeature Att_1Feature
+ATC	He is not the same boy as he was .	Att_4Feature Att_4Feature
+ATC	He is the only one of the visitors that has been to PLACE .	Att_FirstFeature Att_1Feature
+ATC	He is the only one of us that knows Russian .	Att_FirstFeature
+ATC	He married a wife by whom he had two daughters .	NoN
+ATC	He proudly pointed out the biggest sheep , which already weighed 150 kilograms .	Att_4Feature
+ATC	He said nothing that made her angry .	Att_FirstFeature Att_1Feature
+ATC	He was the only person that could rule over the tribes .	Att_FirstFeature Att_1Feature
+ATC	He who laughs last laughs best .	Att_FirstFeature
+ATC	Her attitude to him was quite the same as it had always been .	Att_4Feature
+ATC	Here is the car that I had told you about .	Att_1Feature
+ATC	I 'd like a room whose window looks out over the sea .	Att_FirstFeature Att_1Feature
+ATC	I 've just struck on something which might be of use to us .	Att_FirstFeature Att_1Feature
+ATC	I dislike the school to which he belongs .	NoN
+ATC	I do n't know the reason why he looks unhappy today .	Att_1Feature
+ATC	I feel sorry for famous people who live their lives in the glare of publicity .	Att_FirstFeature Att_1Feature
+ATC	I gave him old clothes which he made a penny of .	Att_1Feature
+ATC	I have never seen such a man as you talked about .	Att_4Feature Att_4Feature
+ATC	I have some things that I must do today .	Att_1Feature
+ATC	I like those cookies that are coated with chocolate spread .	Att_FirstFeature Att_1Feature
+ATC	I never heard such stories as he tells .	Att_4Feature Att_4Feature
+ATC	I remember the years when he lived in the countryside with his grandparents .	Att_3Feature
+ATC	I still remember the day when I first came to this school .	Att_3Feature
+ATC	I visited a scientist whose name is known all over the country .	Att_FirstFeature Att_1Feature
+ATC	I went off in search of a garage where I could buy some petrol .	Wadv_1Feature
+ATC	I will never forget the three years that I spent in the junior middle school .	Att_1Feature
+ATC	If you run back over the season , you ca n't pick out a game in which he played badly .	Cadv_2Feature
+ATC	Is he the man that sells eggs .	Att_FirstFeature Att_1Feature
+ATC	Is he the man that sells eggs ?	Att_FirstFeature Att_1Feature
+ATC	It is in this place that he once lived .	NoNP2 Att_1Feature
+ATC	It is the same song that I heard yesterday afternoon .	NoNP2 Att_1Feature
+ATC	It was the largest map that I ever saw .	NoNP2 Att_1Feature
+ATC	Jenney dreams of the day when she will be playing the piano for a living .	Att_3Feature
+ATC	Lally was right about the repairs which the cottage needed .	Att_1Feature
+ATC	Nobody is going to buy a house whose front door opens onto a gas works .	O_2Feature Att_1Feature
+ATC	Painting is something that I really enjoy doing .	Att_1Feature
+ATC	People who walk on the grass are liable to a fine .	Att_FirstFeature Att_1Feature
+ATC	Polly is the most direct young woman that I have ever come across .	Att_1Feature
+ATC	Rule out neatly any words which you do n't wish Jack to read .	Fst_ApposFeature
+ATC	She is one of the students that work very hard .	Att_FirstFeature Att_1Feature
+ATC	She is the very person that I wanted to see .	Att_1Feature
+ATC	She was shown into a small room , where there was a dying man .	Wadv_1Feature Wadv_2Feature
+ATC	She was the last person that came back .	Att_FirstFeature Att_1Feature
+ATC	That 's the girl whom I teach .	Att_1Feature
+ATC	That 's the same man that asked for help the day before yesterday .	Att_FirstFeature Att_1Feature
+ATC	That 's the way how I learn English .	Att_1Feature Mnradv_1Feature
+ATC	That was the reason why he refused to speak at the meeting .	Att_1Feature
+ATC	The boys who are playing football are from Class One .	Att_FirstFeature Att_1Feature
+ATC	The classroom whose door is broken will soon be repaired .	Att_FirstFeature Att_1Feature
+ATC	The custom dates from the times when men wore swords .	Att_3Feature
+ATC	The earthquake that you were talking about sounded frightening .	Att_1Feature
+ATC	The factory which makes computers is far away from here .	Att_FirstFeature Att_1Feature
+ATC	The film which they went to see last night was not interesting at all .	Att_1Feature
+ATC	The first thing that I want to do now is to have a drink .	Att_1Feature
+ATC	The girl whom the teacher often praises is our monitor .	Att_1Feature
+ATC	The girl with whom he had been living for two years suddenly packed her bags and left .	NoN
+ATC	The house where I lived ten years ago has been pulled down .	Att_3Feature
+ATC	The journey , which I remember well , was very pleasant .	NoN
+ATC	The letter that I received from him yesterday is very important .	Att_1Feature
+ATC	The man who I saw is called Smith .	Att_1Feature
+ATC	The man who is shaking hands with my father is a policeman .	Att_FirstFeature Att_1Feature
+ATC	The man who telephoned was a friend of yours .	Att_FirstFeature Att_1Feature
+ATC	The manager whose company I work in pays much attention to improving our working conditions .	Att_1Feature
+ATC	The number of people that come to visit this city each year reaches one million .	Att_FirstFeature Att_1Feature
+ATC	The patient , who had been asleep for nearly three hours , began to move his limbs .	Att_4Feature
+ATC	The person whom you wish to see has come .	Att_1Feature
+ATC	The person that you introduced to me is very kind .	Att_1Feature
+ATC	The play , whose style is rigidly formal , is typical of the period .	Att_4Feature
+ATC	The police have pulled in a half dozen people whom they suspect .	Att_1Feature
+ATC	The professor whom you are waiting for has come .	Att_1Feature
+ATC	The reason why he was punished is unknown to us .	Att_1Feature
+ATC	The reason why she did n't get the job was that her English was not very good .	Att_1Feature
+ATC	The room whose window faces south is mine .	Att_FirstFeature Att_1Feature
+ATC	The school which he once studied in is very famous .	Att_1Feature
+ATC	The season which comes after TIME is summer .	Att_FirstFeature Att_1Feature
+ATC	The situation which we had got into was very dangerous .	Att_1Feature
+ATC	The sports day is an occasion which we can all join in .	Att_1Feature
+ATC	The third tree that I planted was cut down by someone again .	Att_1Feature
+ATC	The tourists sought out a shady spot where they sat down and rested .	Wadv_1Feature
+ATC	The two brothers were satisfied with this decision , as was agreed beforehand .	Att_4Feature
+ATC	The women never drink in this manner , which is absolutely special to men .	Att_4Feature
+ATC	The worst matter that I am afraid of happened in the end .	Att_1Feature
+ATC	There is a lady who wants to see you .	Att_FirstFeature Att_1Feature
+ATC	There is a special parasite which gives rise to the itch .	Att_FirstFeature Att_1Feature
+ATC	There is every chance that she will succeed .	Att_1Feature
+ATC	There were long periods when we had no news of him .	Att_3Feature
+ATC	They pushed open all the windows that remained closed for a whole month .	Att_FirstFeature Att_1Feature
+ATC	This could be the winning game for the challenger , who only needs two more points for the championship .	Att_4Feature
+ATC	This is the hour when the place is full of people .	Att_3Feature
+ATC	This is the pen which he bought yesterday .	Att_1Feature
+ATC	This is the place where they fought the enemy .	Att_3Feature
+ATC	This is the room which is kept for the reception of visitors .	Att_FirstFeature Att_1Feature
+ATC	This is the very book that I have been looking for .	Att_1Feature
+ATC	This is the way how he always treats me .	Att_1Feature Mnradv_1Feature
+ATC	Those who want to go to the museum must be at the school gate at 7 tomorrow morning .	Att_FirstFeature Att_1Feature
+ATC	Those who were trapped under the ruins finally got rescued .	O_2Feature Att_FirstFeature Att_1Feature
+ATC	TIME was the day when the People 's Republic of PLACE was founded .	Att_3Feature
+ATC	Tomorrow I 'll bring here the magazine which you asked for .	O_2Feature Att_1Feature
+ATC	Watch for our new improved product , which will be on the market next week !	Att_4Feature
+ATC	Water is the natural medium in which most fish live .	NoN
+ATC	We 'll go to hear the famous singer whom we have often talked about .	Att_1Feature
+ATC	We have worked out a scheme which should save the company several thousand pounds a year .	Att_FirstFeature Att_1Feature
+ATC	We talked about the persons and things that we remembered in school .	Att_1Feature
+ATC	We will try to help parents improve the ways that they talk with their children .	Att_1Feature
+ATC	Which of the books that you bought yesterday was written by Bacon ?	Att_1Feature
+ATC	Would you please correct any wrong spellings that you find ?	Att_1Feature
+ATC	Yesterday I received a letter which came from PLACE .	Att_FirstFeature Att_1Feature
+ATC	You tell me the reason why you missed the plane .	O_2Feature Att_1Feature
+PADVC	She thinks more about her appearance than she thinks about her personality .	Cmpadv_3Feature
+CMPADVC	She thinks more about her appearance than she thinks about her personality .	Cmpadv_3Feature
+PADVC	He woke up as suddenly as he had fallen asleep .	Cmpadv_1Feature
+CMPADVC	He woke up as suddenly as he had fallen asleep .	Cmpadv_1Feature
+PADVC	Man developed earlier than people think .	O_1Feature Cmpadv_3Feature
+CMPADVC	Man developed earlier than people think .	O_1Feature Cmpadv_3Feature
+CMPADVC	He moves more slowly than his sister does .	Cmpadv_3Feature
+PADVC	The youth of today are better off than we used to be .	Cmpadv_3Feature
+CMPADVC	The youth of today are better off than we used to be .	Cmpadv_3Feature
+PADVC	I hope you like it as much as I do .	Cmpadv_1Feature
+CMPADVC	I hope you like it as much as I do .	Cmpadv_1Feature
+PADVC	He feels no better today than he did yesterday .	Cmpadv_3Feature
+CMPADVC	He feels no better today than he did yesterday .	Cmpadv_3Feature
+PADVC	The weather is not so cold as it was TIME .	Rsladv_FirstFeature
+CMPADVC	The weather is not so cold as it was TIME .	Rsladv_FirstFeature
+PADVC	It is not as easy as you think .	Cmpadv_1Feature
+CMPADVC	It is not as easy as you think .	Cmpadv_1Feature
+PADVC	The work did not go so smoothly as we hoped .	Rsladv_FirstFeature
+CMPADVC	The work did not go so smoothly as we hoped .	Rsladv_FirstFeature
+PADVC	Man grows faster than the planet he inhabits .	O_1Feature Cmpadv_3Feature
+PADVC	We have produced even more coal this year than we did that year .	Cmpadv_3Feature
+CMPADVC	We have produced even more coal this year than we did that year .	Cmpadv_3Feature
+CMPADVC	We seemed to understand human nature as well as do science .	SS_A
+CMPADVC	She drives better than her husband does .	O_1Feature Cmpadv_3Feature
+PADVC	I read as many pages as they are required to be read .	O_2Feature Att_4Feature Att_4Feature Cmpadv_1Feature
+CMPADVC	I read as many pages as they are required to be read .	O_2Feature Att_4Feature Att_4Feature Cmpadv_1Feature
+PADVC	The winters in PLACE are not so mild as they are in PLACE .	Rsladv_FirstFeature
+CMPADVC	The winters in PLACE are not so mild as they are in PLACE .	Rsladv_FirstFeature
+PADVC	He eats more than is good for him .	SS_A
+PADVC	There were more casualties than was reported .	Att_FirstFeature Cmpadv_3Feature
+CMPADVC	There were more casualties than was reported .	Att_FirstFeature Cmpadv_3Feature
+PADVC	Work is as necessary for sound mind as it is necessary for sound body .	Att_4Feature Att_4Feature Cmpadv_1Feature
+PADVC	he was more agreeable than he was last night .	Cmpadv_3Feature
+CMPADVC	he was more agreeable than he was last night .	Cmpadv_3Feature
+PADVC	That 's as good a place as I can find .	Ccsadv_6Feature
+CMPADVC	That 's as good a place as I can find .	Ccsadv_6Feature
+PADVC	The more we study , the more we discover our ignorance .	Cmpadv_2Feature
+CMPADVC	The more we study , the more we discover our ignorance .	Cmpadv_2Feature
+PADVC	The longer the treatment is delayed , the worse the prognosis will be .	Cmpadv_2Feature
+CMPADVC	The longer the treatment is delayed , the worse the prognosis will be .	Cmpadv_2Feature
+CMPADVC	An object draws the harder , the more matter it contains .	Att_FirstFeature
+PADVC	I like you the more , the more I know you .	NoN
+CMPADVC	I like you the more , the more I know you .	NoN
+CMPADVC	The more you read , the better will you write .	O_2Feature Cmpadv_2Feature
+PADVC	The higher the temperature is , the greater the pressure is .	Cmpadv_2Feature
+CMPADVC	The higher the temperature is , the greater the pressure is .	Cmpadv_2Feature
+CMAS	Right now it 's the TIME vacation and I 'm helping my dad on the farm .	Ccsadv_2Feature CMAS_A
+CMAS	Not only is he our teacher , but also he is our friend .	SS_A
+CMAS	The teacher 's name is PLACE , and the student 's name is PLACE .	NoN
+CMAS	Not only did we write to her but also we telegraphed her .	O_5Feature Att_FirstFeature CMBS_A
+CMAS	Neither I would consult him nor he would ask me for advice .	Fst_ApposFeature CMAS_A
+CMAS	I like thrillers and I like action movies , too .	SS_A
+CMAS	I like watching TV and I like seeing film .	CMAS_A
+CMAS	I like watching TV , my brother likes seeing film and my sister likes playing football .	NoN
+CMAS	I tried my best , and I caught up with him at last .	CMAS_A
+CMAS	My father is a teacher and my mother is a nurse .	CMAS_A
+CMAS	I not only heard it but also saw it .	SS_A
+CMAS	He is fat and he is trying to lose weight .	CMAS_A
+CMAS	he had been arrested and he was imprisoned .	CMAS_A
+CMAS	I bought a present and he likes it very much .	CMAS_A
+CMAS	He not only works hard but also he is handsome .	SS_A
+CMAS	She neither changed her mind , she will nor do so .	NoN
+CMBS	It never rains but it pours .	O_5Feature CMBS_A
+CMBS	I like tea while she likes coffee .	NoN
+CMBS	She looks very young , but she is already in her 30 's .	PRD_1Feature CMBS_A
+CMBS	He is good-natured ; still I do n't like him .	NoN
+CMBS	The book is expensive ; however , it 's worth it .	CMBS_A
+CMBS	Learning the guitar is n't difficult , but you have to practice .	CMBS_A
+CMBS	The man hunted for jobs in new York for months , and yet he couldn ?? t find any .	CMAS_A CMBS_A
+CMBS	It is strange , yet it is true .	CMBS_A
+CMBS	He is tall while his elder brother is short .	NoN
+CMBS	Hurry up otherwise you will miss the first bus .	SS_A
+CMBS	Hurry up or else you will miss the first bus .	SS_A
+CMBS	Seize the chance , otherwise you 'll regret .	SS_A
+CMFS	The manager was ill so I went in her place .	CMCS_A
+CMFS	It 's time of year for the rice harvest , so every day I work from dawn until dark .	NoN
+CMFS	He worked day and night , therefore , he was able to buy the sports car .	CMRS_A
+CMFS	She must go now , for her boyfriend is waiting for her .	NoN
+CMFS	I have to stay up late , for I have lots of homework to do .	Radv_FirstFeature CMRS_A
+CMFS	Kate was ill , so she did n't go to school .	CMRS_A
+CMFS	Danny always feels nervous , so he decides to ask his doctor for help .	CMRS_A
+CMFS	You 'd better take an umbrella with you , for it 's going to rain .	CMRS_A
+CMFS	I 've got a meeting to attend , so I have to go now .	CMRS_A
+CMFS	They asked me to go , so I went .	CMRS_A
+CMFS	It 's dawn , for the birds are singing .	CMRS_A
+CMFS	It 's morning , for the birds are singing .	CMRS_A
+CMFS	It 's winter now , hence the day will be shorter .	CMRS_A
+CMFS	I apologized to her , for I had wronged her .	Radv_FirstFeature
+CMFS	He felt no fear , for he was very brave .	CMRS_A
+CMFS	You are supposed to get rid of carelessness , for it often lends to a serious errors .	CMRS_A
+CMFS	Everyone lent a hand , so the task was done on time .	CMRS_A
+CMFS	Good technique means less pain and fewer deaths ; therefore it ?? s our duty to master it .	CMRS_A
+CCSADVC	Admitting he has ability and interest , it does not mean he has time to do the job .	NoNP1 Att_FirstFeature
+CCSADVC	Admitting that he has ability and interest , it does not mean he has time to do the job .	O_5Feature
+CCSADVC	Although air is light , it has weight .	O_5Feature
+CCSADVC	Although he is very old , yet he is quite strong .	NoN
+CCSADVC	Although he was exhausted , still he kept on working .	CMBS_A
+CCSADVC	Although he was worn out , he kept on working .	NoN
+CCSADVC	Although he was worn out , still he kept on working .	NoN
+CCSADVC	Although you may object , I 'll go .	NoN
+CCSADVC	Can you tell me whether it will rain or not tomorrow ?	NoN
+CCSADVC	Child as he is , he know a lot .	O_2Feature
+CCSADVC	Child as he was , he knew what was the right thing to do .	O_5Feature
+CCSADVC	Child though he was , he knew what was the right thing to do .	O_5Feature
+CCSADVC	Even though he is poor , she loves him .	Ccsadv_5Feature
+CCSADVC	Fast as you read , you can ?? t finish the book so soon .	Ccsadv_1Feature Ccsadv_5Feature
+CCSADVC	Granted that you are made some progress , you should not be conceited .	O_5Feature
+CCSADVC	Granted you are made some progress , you should not be conceited .	O_5Feature Ccsadv_FirstFeature
+CCSADVC	Granting that you are made some progress , you should not be conceited .	Ccsadv_FirstFeature
+CCSADVC	Granting you are made some progress , you should not be conceited .	O_5Feature Ccsadv_FirstFeature
+CCSADVC	Hard as he works , he makes little progress .	O_5Feature Ccsadv_FirstFeature
+CCSADVC	Hard though he works , he makes little progress .	O_5Feature
+CCSADVC	However expensive it may be , I 'll take it .	O_2Feature Ccsadv_5Feature
+CCSADVC	However hard I have tried , I can not find the answer .	O_3Feature O_2Feature Ccsadv_FirstFeature
+CCSADVC	However often you ring , no one will answer .	O_2Feature Ccsadv_FirstFeature
+CCSADVC	However talented a man may be , the collective will always be wiser and stronger .	NoN
+CCSADVC	It was an exciting game , although no goals were scored .	O_5Feature
+CCSADVC	It was an exciting game , though no goals were scored .	NoN
+CCSADVC	No matter how hard I have tried , I can not find the answer .	NoN
+CCSADVC	No matter what I say or how I say it , he always thinks I 'm wrong .	Att_1Feature Ccsadv_3Feature
+CCSADVC	No matter what you say , I wo n't believe you .	Ccsadv_3Feature CMCS_A
+CCSADVC	No matter when it rains , this river is flooded .	Ccsadv_3Feature
+CCSADVC	No matter who you are , you must keep the law .	Tadv_7Feature Tadv_8Feature Ccsadv_3Feature
+CCSADVC	Object as you may , I ?? ll go .	Att_1Feature Ccsadv_3Feature
+CCSADVC	She passed the examination though she had not studied very hard .	O_5Feature
+CCSADVC	Though all the world were against me , I would still hold to my opinion .	O_2Feature
+CCSADVC	Though he looks weak , but he is healthy .	NoN
+CCSADVC	Though he looks weak , he is healthy .	CMBS_A
+CCSADVC	Though he tries hard , he never seems .	NoN
+CCSADVC	Though he was a child , he knew what was the right thing to do .	NoN
+CCSADVC	Though he was exhausted , still he kept on working .	NoN
+CCSADVC	Though he was worn out , he kept on working .	NoN
+CCSADVC	Though he works hard , he makes little progress .	NoN
+CCSADVC	Try hard as he will , he never seems able to do the work satisfactorily .	O_2Feature
+CCSADVC	We wo n't be discouraged even if we fail ten times .	NoN
+CCSADVC	We wo n't be discouraged even though we fail ten times .	O_5Feature Ccsadv_1Feature
+CCSADVC	We 'll make a trip even if the weather is bad .	O_5Feature Ccsadv_1Feature
+CCSADVC	We 'll make a trip even ithough the weather is bad .	O_2Feature Ccsadv_1Feature
+CCSADVC	We 'll make a trip even though the weather is bad .	NoN
+CCSADVC	Whatever happened , he would not mind .	O_2Feature Ccsadv_1Feature
+CCSADVC	Whenever it rains , this river is flooded .	Att_FirstFeature Ccsadv_FirstFeature
+CCSADVC	Whether it rains or not , I shall go out for an outing tomorrow .	NoN
+CCSADVC	Whichever book you borrow , you must return it in a week .	NoN
+CCSADVC	Whoever you are , you must keep the law .	O_2Feature
+CCSADVC	You 'll have to attend the ceremony whether you 're free or busy .	Ccsadv_FirstFeature
+CADVC	I will stay here provided the climate agrees with me .	NoN
+CADVC	I will stay here providing the climate agrees with me .	O_5Feature Cadv_1Feature
+CADVC	I would have arrived much earlier if I had not been caught in the traffic .	O_5Feature Cadv_1Feature
+CADVC	If I were you , I would invite him to the party .	Cadv_2Feature
+CADVC	If bears are in danger , they attack people .	Cadv_2Feature
+CADVC	If bears are in danger , they attack people .	Cadv_2Feature
+CADVC	If it rains tomorrow , we will not go to the zoo .	Cadv_2Feature
+CADVC	If it stops snowing we can go out .	Cadv_2Feature
+CADVC	If you ask him , he will help you .	Cadv_2Feature
+CADVC	If you park your car in the wrong place , a traffic policeman will soon find it .	Cadv_2Feature
+CADVC	If you receive arequest like this , you can not fail to obey it .	O_3Feature O_2Feature Cadv_2Feature
+CADVC	If you want to lose weight you should eat less bread .	O_3Feature Cadv_2Feature
+CADVC	Provided you clear your desk by this evening , you can have tomorrow off .	Cadv_2Feature
+CADVC	Provided you promise not to tell anyone else , I '11 explain the secret .	Cadv_FirstFeature
+CADVC	Providing you clear your desk by this evening , you can have tomorrow off .	Cadv_FirstFeature
+CADVC	Providing you promise not to tell anyone else , I '11 explain the secret .	Cadv_FirstFeature
+CADVC	She will keep on singing unless she is told to stop .	O_5Feature Cadv_FirstFeature
+CADVC	The concert will be held as schedule unless there is a typhoon .	O_5Feature Cadv_2Feature
+CADVC	Unless it rains , the game will be played .	Cadv_2Feature
+CADVC	Unless you listen carefully , you wo n't know the answer .	Cadv_2Feature
+CADVC	We will go hiking unless it rains tomorrow .	Cadv_2Feature
+CADVC	What will you do if you find a panda in danger .	Cadv_2Feature
+CADVC	You can borrow my bike provided you bring it back .	O_5Feature Cadv_2Feature
+CADVC	You will be very lucky if he lets you go without a ticket .	O_2Feature O_5Feature Cadv_1Feature
+CADVC	You 'll fail in French unless you work harder .	Cadv_2Feature
+CADVC	I shall go provided that it does n't rain .	Cadv_2Feature
+CADVC	I will go providing that my expenses are paid .	O_5Feature Cadv_1Feature
+CADVC	I will agree to go providing that my expenses are paid .	O_5Feature Cadv_1Feature
+CADVC	I will agree to go provided that my expenses are paid .	O_5Feature Cadv_1Feature
+CADVC	He will take the job providing that he may do it in his own time .	O_5Feature Cadv_1Feature
+RADVC	I have changed it as you suggest .	O_2Feature O_5Feature Cadv_1Feature
+MNRADVC	I have changed it as you suggest .	O_3Feature Att_4Feature
+RADVC	I am as you can imagine short of money .	O_3Feature Att_4Feature
+MNRADVC	I am as you can imagine short of money .	PRD_1Feature
+RADVC	Robbie didn ?? t feel as she did .	PRD_1Feature
+MNRADVC	Robbie didn ?? t feel as she did .	NoN
+RADVC	They treated the child as if she were their own .	NoN
+MNRADVC	They treated the child as if she were their own .	Att_4Feature Ccsadv_6Feature Mnradv_3Feature
+RADVC	I remember the whole thing as if it happened yesterday .	Att_4Feature Ccsadv_6Feature Mnradv_3Feature
+MNRADVC	I remember the whole thing as if it happened yesterday .	Att_4Feature Ccsadv_6Feature Mnradv_3Feature
+MNRADVC	He treats me as if I am a stranger .	Att_4Feature Ccsadv_6Feature Mnradv_3Feature
+RADVC	The stuffed dog barks as if it is a real one .	Att_4Feature Ccsadv_6Feature Mnradv_3Feature
+MNRADVC	The stuffed dog barks as if it is a real one .	O_5Feature Ccsadv_6Feature Mnradv_3Feature
+RADVC	Always do to the others as you would be done by .	O_5Feature Ccsadv_6Feature Mnradv_3Feature
+MNRADVC	Always do to the others as you would be done by .	Att_4Feature
+RADVC	As water is to fish , so air is to man .	Att_4Feature
+MNRADVC	As water is to fish , so air is to man .	CMRS_A
+RADVC	Just as we sweep our rooms , so we should sweep backward ideas from our minds .	CMRS_A
+MNRADVC	Just as we sweep our rooms , so we should sweep backward ideas from our minds .	Ccsadv_5Feature CMRS_A
+RADVC	They completely ignore these facts as though they never existed .	Ccsadv_5Feature CMRS_A
+MNRADVC	They completely ignore these facts as though they never existed .	Att_4Feature Ccsadv_FirstFeature Ccsadv_6Feature Mnradv_3Feature
+MNRADVC	They completely ignore these facts as if they never existed .	Att_4Feature Ccsadv_FirstFeature Ccsadv_6Feature Mnradv_3Feature
+RADVC	He looks as if he had been hit by lightning .	Att_4Feature Ccsadv_6Feature Mnradv_3Feature
+MNRADVC	He looks as if he had been hit by lightning .	O_5Feature Ccsadv_6Feature Mnradv_3Feature
+RADVC	He looks as though he had been hit by lightning .	O_5Feature Ccsadv_6Feature Mnradv_3Feature
+MNRADVC	He looks as though he had been hit by lightning .	O_5Feature Ccsadv_FirstFeature Ccsadv_6Feature Mnradv_3Feature
+RADVC	It looks as if the weather may pick up very soon .	O_5Feature Ccsadv_FirstFeature Ccsadv_6Feature Mnradv_3Feature
+MNRADVC	He looks as if he is angry .	O_5Feature Ccsadv_6Feature Mnradv_3Feature
+RADVC	It looked as if there would be an exciting race .	O_5Feature Ccsadv_6Feature Mnradv_3Feature
+MNRADVC	It looked as if there would be an exciting race .	PRD_1Feature Ccsadv_6Feature
+RADVC	He behaves as if he were a child .	PRD_1Feature Ccsadv_6Feature
+MNRADVC	He behaves as if he were a child .	O_5Feature Ccsadv_6Feature Mnradv_3Feature
+RADVC	He opened his lips as if he was going to say something .	O_5Feature Ccsadv_6Feature Mnradv_3Feature
+MNRADVC	He opened his lips as if he was going to say something .	Att_4Feature Ccsadv_6Feature Mnradv_3Feature
+RADVC	He walked forward as though making a speech .	Att_4Feature Ccsadv_6Feature Mnradv_3Feature
+MNRADVC	He walked forward as though making a speech .	SS_A
+MNRADVC	He walked forward as if making a speech .	SS_A
+RADVC	The clouds has disappeared as if they had done by magic .	SS_A
+MNRADVC	The clouds has disappeared as if they had done by magic .	O_5Feature Ccsadv_6Feature Mnradv_3Feature
+RADVC	He fell off his horse as if he had been shot .	O_5Feature Ccsadv_6Feature Mnradv_3Feature
+MNRADVC	He fell off his horse as if he had been shot .	Att_4Feature Ccsadv_6Feature Mnradv_3Feature
+MNRADVC	He hurriedly left the moon as though she were angry .	Att_4Feature Ccsadv_6Feature Mnradv_3Feature
+ATC	Above the trees are the mountains , whose magnificence the river faithfully reflects on the surface .	O_2Feature Att_4Feature Ccsadv_FirstFeature Ccsadv_6Feature Mnradv_3Feature
+NATC	Above the trees are the mountains , whose magnificence the river faithfully reflects on the surface .	Att_4Feature
+ATC	Angles , whose native language is German , can read and write in several foreign languages .	Att_4Feature
+NATC	Angles , whose native language is German , can read and write in several foreign languages .	Att_4Feature
+ATC	As is known to the PLACE , Mark Twain is a great American writer .	Att_4Feature
+NATC	As is known to the PLACE , Mark Twain is a great American writer .	Att_FirstFeature
+ATC	As we all know , the earth is round .	Att_FirstFeature
+NATC	As we all know , the earth is round .	NoN
+ATC	PLACE , which was founded in TIME , is becoming more and more powerful .	NoN
+NATC	PLACE , which was founded in TIME , is becoming more and more powerful .	Att_4Feature
+ATC	He forgot to bring his pen with him , as was often the case .	Att_4Feature
+ATC	He has a son , who is an actor .	Att_4Feature
+ATC	He has to work on TIME , which he does n't like .	Att_4Feature
+NATC	He has to work on TIME , which he does n't like .	NoN
+NATC	He is absorbed in work , as he often was .	NoN
+ATC	He may have acute appendicitis , in which case he will have to be operated on .	NoN
+ATC	He said that he had never seen her before , which was not true .	Natt_1Feature
+NATC	He said that he had never seen her before , which was not true .	O_5Feature
+ATC	He saw the girl , which delighted him .	O_5Feature
+NATC	He saw the girl , which delighted him .	Att_4Feature
+ATC	He will put off the picnic until TIME , when he will be free .	Att_4Feature
+NATC	He will put off the picnic until TIME , when he will be free .	Natt_2Feature Tadv_8Feature
+ATC	His head soon appeared out of the second storey windows , from where he could see nothing but trees .	Natt_2Feature Tadv_8Feature
+NATC	His mother , who loves him very much , is strict with him .	Tadv_6Feature Wadv_1Feature
+ATC	I like the girl , who is making a pose .	Att_4Feature
+NATC	I like the girl , who is making a pose .	Att_4Feature
+ATC	I went to bed at ten , before when I was reading for an hour .	Att_4Feature
+NATC	I went to bed at ten , before when I was reading for an hour .	Tadv_8Feature
+ATC	In his office there are nine clerks , the youngest of whom is Mr Liu .	Tadv_8Feature
+NATC	In his office there are nine clerks , the youngest of whom is Mr Liu .	Att_4Feature
+ATC	Last TIME I visited the People 's Great Hall , in which many important meetings are held every year .	Att_4Feature
+NATC	Last TIME I visited the People 's Great Hall , in which many important meetings are held every year .	O_5Feature
+ATC	Light is the fast thing in the world , the speed of which is 300000 kilometer per second .	O_5Feature
+NATC	Light is the fast thing in the world , the speed of which is 300000 kilometer per second .	Natt_1Feature Att_4Feature
+ATC	My gardener , who is very pessimistic , says that there will be no apples this year .	Natt_1Feature Att_4Feature
+NATC	My gardener , who is very pessimistic , says that there will be no apples this year .	Att_4Feature
+NATC	Our guide , who was a French Canadian , was an excellent cook .	Att_4Feature
+ATC	Peter , whom you met in PLACE , is now back in PLACE .	Att_4Feature
+ATC	She is always careless , which we should not be .	NoN
+NATC	She is always careless , which we should not be .	NoN
+ATC	She is an artist , which I am not .	NoN
+NATC	She is an artist , which I am not .	NoN
+ATC	She was very patient towards the children , which her husband seldom was .	NoN
+ATC	Sun Yida , whom everyone likes very much , is one of the best athletes in our class .	NoN
+NATC	Sun Yida , whom everyone likes very much , is one of the best athletes in our class .	NoN
+NATC	PLACE is , as you know , an inseparable part of PLACE .	NoN
+NATC	The Thames , which is now clean enough to swim in , was polluted for over a hundred years .	NoN
+ATC	The book , which your sister bought you in PLACE , is very useful in improving your spoken English .	Att_4Feature
+NATC	The book , which your sister bought you in PLACE , is very useful in improving your spoken English .	O_2Feature
+NATC	The boy , whose father is an engineer , studies very hard .	O_2Feature
+ATC	The novel is very interesting , which made me very glad .	Att_4Feature
+ATC	The novel , which I read last night , is very interesting .	Att_4Feature
+NATC	The novel , which I read last night , is very interesting .	NoN
+ATC	The old man has a son , who is in the army .	NoN
+NATC	The old man has a son , who is in the army .	Att_4Feature
+ATC	The play , whose style is informal , is popular with the young people .	Att_4Feature
+NATC	The play , whose style is informal , is popular with the young people .	Att_4Feature
+ATC	The play , whose style is rigidly formal , is typical of the period .	Att_4Feature
+NATC	The play , whose style is rigidly formal , is typical of the period .	Att_4Feature
+NATC	The sun heats the earth , which makes it possible for plants to grow .	Att_4Feature
+ATC	The two brothers were satisfied with this decision , as was agreed beforehand .	Att_4Feature
+NATC	The two brothers were satisfied with this decision , as was agreed beforehand .	Att_4Feature
+ATC	The two policemen were completely trusted , which in fact they were .	Att_4Feature
+NATC	The two policemen were completely trusted , which in fact they were .	NoN
+ATC	There are 30 chairs in the small hall , most of which are new .	NoN
+NATC	There are 30 chairs in the small hall , most of which are new .	Natt_1Feature Att_4Feature
+ATC	These apple trees , which I planted three years ago , have not borne any fruit .	Natt_1Feature Att_4Feature
+NATC	These apple trees , which I planted three years ago , have not borne any fruit .	NoN
+ATC	They went to PLACE , where they lived for six months .	NoN
+NATC	They went to PLACE , where they lived for six months .	Natt_3Feature Wadv_1Feature
+ATC	Water , which is a clear liquid , has many uses .	Natt_3Feature Wadv_1Feature
+NATC	Water , which is a clear liquid , has many uses .	Att_4Feature
+ATC	We will put off the outing until next week , when we wo n't be so busy .	Att_4Feature
+NATC	We will put off the outing until next week , when we wo n't be so busy .	Tadv_8Feature Tadv_9Feature
+ATC	Wei Hua spent four years in the PLACE , during which period she studied law .	Tadv_8Feature Tadv_9Feature
+NATC	Wei Hua spent four years in the PLACE , during which period she studied law .	Natt_1Feature
+ATC	When deeply absorbed in work , which he often was , he would forget all about eating and sleeping .	Natt_1Feature
+NATC	When deeply absorbed in work , which he often was , he would forget all about eating and sleeping .	Att_FirstFeature
+ATC	Xi'an , which I visited last year , is a nice old city .	Att_FirstFeature
+NATC	Xi'an , which I visited last year , is a nice old city .	NoN
+ATC	My friend , who has served on the International Olympic Committee all his life , is retiring next month .	NoN
+NATC	My friend , who has served on the International Olympic Committee all his life , is retiring next month .	Att_4Feature
+ATC	Have you seen the film Titanic , whose leading actor is world famous ?	Att_4Feature
+OC	He answered that he was listening to me .	Att_4Feature
+OC	He asked if you had written to Peter .	O_5Feature
+OC	He asked me where he could find Lucy .	O_5Feature Cadv_2Feature
+OC	He asked whose handwriting was the best .	O_2Feature Wadv_1Feature
+OC	He hesitated about whether he should drive or take the train .	O_5Feature Att_FirstFeature
+OC	He is wondering when can he finish this difficult job .	O_1Feature
+OC	He said that he would go back to the PLACE soon .	O_5Feature Tadv_8Feature
+OC	He suggested we should clean the corridor every day .	O_5Feature
+OC	He told me that he was preparing for the English test .	O_5Feature
+OC	I am glad that you can join us .	O_2Feature
+OC	I am happy that I have passed the exam .	O_4Feature
+OC	I am sorry that I have troubled you so long .	O_4Feature
+OC	I am sure I will pass the exam .	O_4Feature
+OC	I asked him whether he had done all the work himself or whether he had had any assistance .	O_4Feature
+OC	I asked if I did n't come to school yesterday .	O_2Feature
+OC	I ca n't say whether or not thet can come on time .	O_5Feature Cadv_2Feature
+OC	I do n't think hens can fly .	O_5Feature CMCS_A
+OC	I do n't think he likes the English teacher .	O_5Feature
+OC	I found it impossible that he could finish it in such a short time .	O_5Feature
+OC	I have made it a rule that I keep diaries .	O_3Feature O_2Feature
+OC	I heard it said that he had gone abroad .	O_3Feature O_2Feature Att_1Feature
+OC	I think it necessary that we take plenty of hot water every day .	O_5Feature
+OC	I want to know if he broke my e-dictionary yesterday .	O_3Feature
+OC	Nobody knew whether he could pass the exam .	O_5Feature Cadv_2Feature
+OC	None of us knows where these new parts can be bought .	O_5Feature
+OC	Our teacher said that TIME is the first month of the year .	O_5Feature Wadv_1Feature
+OC	Our teacher told us that light travels much faster than sound .	O_5Feature
+OC	Please tell us what they bought in the mall yesterday .	O_2Feature
+OC	Scientists have proved that the earth turns around the sun .	O_2Feature
+OC	Tell him which class you are in .	O_5Feature
+OC	The book will show you what the best CEOs know .	Att_FirstFeature
+OC	The headmaster hopes everything goes well .	O_2Feature O_2Feature
+OC	We all consider what you said to be unbelievable .	O_5Feature
+OC	We all expect that they will win , for members of their team are stronger .	O_5Feature
+OC	We all find it important that we make a quick decision about the matter .	O_5Feature
+OC	We are talking about whether we admit students into our club .	O_3Feature O_2Feature
+OC	We discovered what we had learned to be valuable .	O_1Feature
+OC	We suppose you have finished the project .	O_5Feature
+OC	We take it that you will agree with us .	O_5Feature Cadv_FirstFeature Cadv_1Feature
+OC	We think it wrong that he told a lie to everyone .	O_3Feature O_2Feature
+OC	He told that he would go to the college the next year .	O_3Feature
+OC	I do n't know if there will be a bus any more .	O_5Feature
+OC	I do n't know whom you should depend on .	O_5Feature Cadv_2Feature
+OC	He did n't tell me when we should meet again .	O_5Feature
+OC	He told me that he would go to the college the next year .	O_2Feature Tadv_8Feature
+PC	At that time , it seemed as if I could n't think of the right word .	O_2Feature
+PC	PLACE is not what it used to be .	PRD_1Feature
+PC	Fame and personal gain is what they 're after .	PRD_1Feature
+PC	He has become what he wanted to be ten years ago .	PRD_1Feature
+PC	He is no longer what he was .	PRD_1Feature
+PC	His sole requirement was that the system work .	NoN
+PC	It is not as though we were poor .	PRD_1Feature
+PC	It is n't as this is what I want , if you were going away for ever .	PRD_1Feature Ccsadv_FirstFeature Ccsadv_6Feature Mnradv_3Feature
+PC	It looked as if it was going to rain .	PRD_1Feature
+PC	It sounds as if someone is knocking at the door .	PRD_1Feature Ccsadv_6Feature
+PC	It 's just because he does n't know her .	PRD_1Feature Ccsadv_6Feature
+PC	My idea is that we should start making preparations right now .	PRD_1Feature
+PC	My question is who will take over president of the Foundation .	PRD_1Feature Fst_ApposFeature
+PC	My suggestion is that we should start early tomorrow .	PRD_1Feature Fst_ApposFeature Att_FirstFeature
+PC	My suggestion is that we should tell him .	PRD_1Feature Fst_ApposFeature
+PC	Next TIME is when we shall meet .	PRD_1Feature Fst_ApposFeature
+PC	Now it was as though she had known Millie for years .	PRD_1Feature Tadv_8Feature
+PC	She has remained where I stood yesterday for an hour .	PRD_1Feature Ccsadv_2Feature Ccsadv_FirstFeature Ccsadv_5Feature
+PC	That is because he had to help his little sister with her homework .	PRD_1Feature Wadv_1Feature
+PC	That is where he was born .	PRD_1Feature
+PC	That was when I was fifteen .	PRD_1Feature Wadv_1Feature
+PC	That 's what I want to stress .	PRD_1Feature Tadv_7Feature Tadv_8Feature
+PC	That 's what we are here for .	PRD_1Feature
+PC	That 's where I first met her .	PRD_1Feature
+PC	That 's where you are wrong .	PRD_1Feature Wadv_1Feature
+PC	That 's why I object to the plan .	PRD_1Feature Wadv_1Feature
+PC	That 's why he did n't come .	PRD_1Feature
+PC	The agument is whether it rains tomorrow .	PRD_1Feature
+PC	The fact is that he does n't really try .	PRD_1Feature
+PC	The house is where Lu Xun once lived .	PRD_1Feature Fst_ApposFeature
+PC	The problem is how we can find him .	PRD_1Feature Wadv_1Feature
+PC	The problem is when we can get a pay rise .	PRD_1Feature Fst_ApposFeature
+PC	The problem is who can do the work .	PRD_1Feature Fst_ApposFeature Tadv_8Feature
+PC	The problem is who we can get to replace her .	PRD_1Feature Fst_ApposFeature Att_FirstFeature
+PC	The question is whether the enemy is marching towards us .	PRD_1Feature Fst_ApposFeature
+PC	The question is whether the film is worth seeing .	PRD_1Feature Fst_ApposFeature
+PC	The question is whether we can rely on him .	PRD_1Feature Fst_ApposFeature
+PC	The question is who we should trust .	PRD_1Feature Fst_ApposFeature
+PC	The trouble is that I have lost his address .	PRD_1Feature Fst_ApposFeature
+PC	This is what I want .	PRD_1Feature
+PC	This is why I am late .	PRD_1Feature
+PC	You are not who I thought you were .	PRD_1Feature
+PC	PLACE is no longer what she used to be .	PRD_1Feature
+PC	The question remains whether they will be able to help us .	NoN
+PADVC	Better takes more clothes in case the weather is cold .	PRD_1Feature Fst_ApposFeature
+PADVC	Everyone lend a hand , so that the sowing was done in time .	Pradv_3Feature
+PADVC	He left early in case he should miss the train .	O_2Feature Pradv_3Feature CMRS_A CMRS_A
+PADVC	He was worried for fear the child might hurt himself .	O_2Feature Pradv_3Feature
+PADVC	He works hard in order that his family may be happy .	Pradv_3Feature
+PADVC	He wrote the name down for fear that he should forget it .	Fst_ApposFeature Pradv_3Feature
+PADVC	I hid the book lest he should see it .	Att_1Feature Pradv_3Feature
+PADVC	I am punishing the child lest he should make the same mistake .	Pradv_4Feature
+PADVC	I am telling you that lest you should make a mistake .	Pradv_4Feature
+PADVC	I got up early so that I could catch the first bus .	NoN
+PADVC	Most students go to college so that they can be engineers , teachers or chemists .	Pradv_3Feature
+PADVC	She has bought the book in order that she can follow the TV lessons .	Pradv_3Feature
+PADVC	She looked down so that she should not see his eyes .	O_2Feature Fst_ApposFeature Pradv_3Feature
+PADVC	She worked hard in order to be ready by 5 o'clock .	Pradv_3Feature
+PADVC	The nurses whispered lest they should wake the sleeping child .	O_1Feature Att_FirstFeature
+PADVC	The boss asked the secretary to hurry up with the letters so that he could sign them .	O_5Feature Pradv_4Feature
+PADVC	The teacher raised his voice on purpose that the students in the back could hear more clearly .	Pradv_3Feature
+PADVC	We have learned the native language so that we can speak to the people there .	Att_1Feature
+PADVC	You must speak louder so that you can be heard by all .	Pradv_3Feature
+RADVC	As all the seats were full , he stood up .	O_1Feature Pradv_3Feature
+RADVC	As we 've no money , we ca n't buy it .	NoN
+RADVC	He could not have seen me , for I was not there .	O_3Feature O_2Feature
+RADVC	He distrusted me because I was new .	CMRS_A
+RADVC	I ca n't get to sleep because of the noise outside .	NoN
+RADVC	I did n't go because I was afraid .	SS_A
+RADVC	I do it because I like it .	O_5Feature
+RADVC	I study hard because I want to be a college student in the future .	O_3Feature
+RADVC	Now that you are here , you 'd better stay .	O_1Feature
+RADVC	Now that you are well again , you can travel .	Ccsadv_2Feature
+RADVC	Seeing that it 's raining , we 'd betterstay indoors .	Ccsadv_2Feature
+RADVC	Since we 've no money , we ca n't buy it .	O_5Feature Radv_1Feature Ccsadv_2Feature
+RADVC	The country is not strong because it is large .	O_3Feature O_2Feature
+RADVC	The sweater shrank because it was washed badly .	NoN
+RADVC	The woolly shrank because it was washed badly .	O_5Feature
+RADVC	We went by bus because it was cheaper .	O_5Feature
+RADVC	You can trust those products because the quality never varies .	NoN
+RADVC	You should n't get angry just because some people speak ill of you .	NoN
+RSLADVC	He worried so that he could n't sleep .	NoN
+RSLADVC	There is so rapid an increase in population that a food shortage is caused .	O_5Feature Pradv_3Feature
+RSLADVC	Our country has so much coal that she can export large quantities .	Rsladv_FirstFeature
+RSLADVC	He 's such a good person that we must n't blame him .	O_5Feature Rsladv_FirstFeature
+RSLADVC	They are such fine teachers that we all hold them in great respect .	Att_1Feature Rsladv_4Feature
+RSLADVC	It is such nice weather that I would like to go to the beach .	Att_1Feature
+SS	I arrived home .	NoNP2 Att_1Feature Rsladv_4Feature
+SS	He likes English very much .	SS_A
+SS	You looks good .	SS_A
+SS	I will tell my friends to protect the trees .	SS_A
+SS	He gave me some seeds .	SS_A
+SS	Mr.Smith teaches us Math .	SS_A
+SS	Nobody went .	SS_A
+SS	My sister will fix everything .	SS_A
+SS	Mr.Turner is an artist .	SS_A
+SS	I found the book easy .	SS_A
+SS	I 'll let him go .	SS_A
+SS	He gave the book to his sister .	SS_A
+SS	I 'll write you a long letter .	SS_A
+SC	How this happened is not clear to anyone .	SS_A
+SC	That he will come is certain .	NoN
+SC	That he will help others is a fact .	O_4Feature
+SC	That he will not come to the meeting this evening is true .	NoN
+SC	That price will go up is certain .	NoN
+SC	What I want to know is this .	Att_FirstFeature
+SC	What we need is money .	NoN
+SC	Whatever he did is right .	NoN
+SC	When he will be back depends on the weather .	Ccsadv_FirstFeature
+SC	When he will come is a puzzle .	NoN
+SC	When he will come is not known .	NoN
+SC	When we 'll start tomorrow will be told soon .	NoN
+SC	Where the test will be given is not yet decided .	NoN
+SC	Whether the meeting will be put off has not been decided yet .	CMBS_A
+SC	Whether they would support us was a problem .	CMBS_A
+SC	Which side will win is not clear .	NoN
+SC	Who killed the scientist remains a question .	NoN
+SC	Whoever breaks the law will be punished .	O_5Feature
+SC	Whoever wants to enter into this school must take the exam .	O_5Feature
+SC	It is certain that she will do well in her exam .	O_2Feature Att_FirstFeature Ccsadv_FirstFeature
+SC	It 's a pity that we ca n't go .	NoNP2 O_4Feature
+SC	It happened that I was out that day .	NoNP2 Att_1Feature
+SC	It does n't matter whether she will come or not .	NoNP2 O_5Feature
+SC	It 's a pity that he did n't come .	O_5Feature
+SC	That you did n't go to the talk was a pity .	NoNP2 Att_1Feature
+SC	That you will win the medal seems unlikely .	NoN
+SC	That you are so indifferent bothers me .	NoN
+SC	That she survived the accident is a miracle .	NoN
+SC	Whether she is coming or not does n't matter too much .	NoN
+SC	What I want to know is this .	NoN
+SC	Where we should leave it is a problem .	NoN
+SC	When they will come has n't been made pubic .	NoN
+SC	It is known to all that light travels in straight lines .	NoN
+SC	When the plane is to take off has not been announced .	SS_A
+SC	Which of them escaped from the prison is still a mystery .	NoN
+SC	It is a mystery to me how it all happened .	SS_A
+SC	It is no surprise that Bob should have won the game .	NoN
+SC	It is doubtful whether she will be able to come .	NoNP2 Att_1Feature
+SC	It was really astonishing that he refused to talk to you .	NoNP2
+SC	It is essential that he should be here by the TIME .	NoNP2
+SC	It does not make any difference whether it rains or not .	NoNP2
+SC	It does not interest me whether you go or not .	NoNP2 O_2Feature
+TADVC	After we had finished the work , we went home .	NoN
+TADVC	By the time you came back , I had finished this book .	NoN
+TADVC	Each time he came to PLACE , he would call on me .	Tadv_6Feature
+TADVC	He had no sooner finished his speech than the students started cheering .	Tadv_6Feature
+TADVC	He had scarcely began his song when the audience shouted at him .	Tadv_5Feature Cmpadv_3Feature
+TADVC	He was on the point of leaving when someone knocked at the door .	Tadv_8Feature
+TADVC	He was still smiling when the door opened and his wife came in .	O_5Feature Tadv_8Feature
+TADVC	I did n't go to bed until my father came back .	O_5Feature Tadv_8Feature
+TADVC	I was deep in gambling when the police entered .	NoN
+TADVC	I was thinking of this when I heard my name called .	Tadv_8Feature
+TADVC	It 's much easier to make friends when you have similar interests .	Tadv_8Feature
+TADVC	Nancy enjoyed herself so much when she visited her friends in PLACE TIME .	O_2Feature Tadv_8Feature
+TADVC	One TIME , we were packing to leave for a weekend away when my daughter heard cries for help .	Tadv_8Feature Rsladv_FirstFeature
+TADVC	Peter was so excited when he received invitation from his friend to visit PLACE .	O_2Feature
+TADVC	She had just finished her homework when her mother asked her to practice playing the piano yesterday .	Tadv_8Feature Rsladv_FirstFeature
+TADVC	The audience applauded John when he ended his speech .	Tadv_8Feature
+TADVC	The moment I heard the news , I hastened to the spot .	Tadv_8Feature
+TADVC	The next time she saw him , he was cooking rice .	Tadv_6Feature
+TADVC	The villagers were enjoying their peaceful life when a war broke out .	Tadv_6Feature
+TADVC	They had no sooner concluded the war than they were faced with pestilence .	Tadv_8Feature
+TADVC	This new policy came in the very times when they really needed it .	Tadv_5Feature Cmpadv_3Feature
+TADVC	We were about to start when it began to rain .	Att_3Feature
+TADVC	When I lived in the countryside , I used to carry some water for him .	O_5Feature Tadv_8Feature
+TADVC	When she turned off the light , she went to bed .	NoN
+TADVC	When the war ended , millions had been killed .	NoN
+TADVC	Whenever I have to give a speech , I get extremely nervous before I start .	NoN
+TADVC	While my wife was reading the newspaper , I was watching TV .	NoN
+TADVC	You ca n't borrow books from the school library before you get your student card .	NoN
+TADVC	You must learn to consult your feelings and your reason when you reach any decision .	NoN
+TADVC	You will be unhappy when you are old and poor .	Tadv_8Feature
+TADVC	While Jim was mending his bike , Lin Tao came to see him .	Tadv_8Feature
+TADVC	I will call you when I get home .	NoN
+TADVC	I was about to leave the room when the phone rang .	Tadv_8Feature
+TADVC	The days get longer when TIME comes .	O_2Feature Tadv_8Feature
+TADVC	Close the door before you leave the room .	O_1Feature Tadv_8Feature
+TADVC	I went to school after I finished my breakfast .	NoN
+TADVC	I 'll call you as soon as I get home .	NoN
+TADVC	I 'll wait here till the rain stops .	Tadv_4Feature Cmpadv_1Feature
+TADVC	I 'll wait here still the rain stops .	O_1Feature
+TADVC	You ca n't go home until you finish your work .	NoN
+TADVC	You ca n't go home till you finish your work .	NoN
+TADVC	As the weather went on the weather got worse .	NoN
+WADVC	And where there is shale there is likely to be oil .	NoN
+WADVC	Fill in the blanks with articles where it is necessary .	NoN
+WADVC	Go back where you came from .	Wadv_1Feature
+WADVC	He is welcome wherever he goes .	O_1Feature Wadv_1Feature
+WADVC	He took me where we might dine and talk .	Wadv_3Feature
+WADVC	In peace , too , the Red Cross is expected to send help wherever there is human suffering .	O_2Feature Wadv_1Feature
+WADVC	Keep it where you can see it .	O_2Feature Wadv_3Feature
+WADVC	Sit wherever you like .	O_3Feature O_3Feature Wadv_1Feature
+WADVC	They arrived where they had fallen in love ten years ago .	O_5Feature Wadv_3Feature
+WADVC	They will go where they are happy .	O_5Feature Wadv_1Feature
+WADVC	We eat , sleep and work where our forefathers have lived and died .	O_5Feature Wadv_1Feature
+WADVC	We have to go where everybody has to go .	O_5Feature Wadv_1Feature
+WADVC	We must camp where we can get water .	O_5Feature Wadv_1Feature
+WADVC	We went home , where we had dinner .	O_5Feature Att_3Feature
+WADVC	Where I live there are plenty of trees .	Natt_3Feature Wadv_1Feature
+WADVC	Where the Communist Party of China goes , there the people are liberated .	NoN
+WADVC	Where the sea is , you will find seamen .	NoN
+WADVC	Where there is a will , there is a way .	O_2Feature
+WADVC	Where there is life , there is hope .	NoN
+WADVC	Where there is no rain , farming is difficult or impossible .	NoN
+WADVC	Wherever I am I will be thinking of you .	NoN
+WADVC	Wherever you work , you will gain much valuable experience as long as you are willing to work .	NoN
+WADVC	You may go anywhere you like .	Cmpadv_1Feature
+WADVC	You should have put the book where you found it .	O_1Feature
+WADVC	I should put the book where I can see it .	Wadv_1Feature
+WADVC	I found my wallet where I fell down yesterday .	Wadv_1Feature
+WADVC	Where there is a river , there is a city .	O_2Feature Wadv_1Feature
+WADVC	Wherever you go , I will follow you .	NoN

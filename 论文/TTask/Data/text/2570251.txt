@@ -1,0 +1,47 @@
+North Korea emerged Tuesday from a complete Internet outage Monday lasting nearly 10 hours.
+
+The outage followed U.S. allegations Pyongyang was behind a cyberattack last month aimed at Hollywoo...The outage followed U.S. allegations Pyongyang was behind a cyberattack last month aimed at Hollywood-based Sony Pictures and reports that Washington said it was  considering a range of options in response to what U.S. President Barack Obama called a case of cybervandalism.
+
+Dyn Research, a New Hampshire-based company that monitors the connectivity and performance of hundreds of thousands of computer networks worldwide, said North Korea went offline for about nearly 10 hours Monday following more than 24 hours of "sustained weekend instability."
+
+It said all four of North Korea’s networks, dependent on lone provider China Unicom, went dark.
+
+The company said that is not unprecedented given "the fragility of their national connectivity to the global Internet." It said countries with limited international connections are more likely than their better-connected counterparts to suffer from nationwide disconnections.
+
+It is unclear whether the outage was the result of a cyberattack. I remeOOK
+
+Obama has called the hacking of Sony Pictures by North Korea last month very serious and costly, but said it fell short of an act of war. He vowed a proportionate response to an act of cybervandalism.
+
+Sony was preparing a December 25 release of the comedy film “The Interview” about two journalists recruited by the Central Intelligence Agency to assassinate North Korean leader Kim Jong Un.
+
+Last week, the Hollywood studio decided to pull the film after top theater chains canceled plans to show it over threats of violence.
+
+Pyongyang condemned the movie as an act of terrorism but denied any involvement in a cyber-attack. However, it acknowledged the hacking may have been the work of some of its supporters. A group called Guardians of Peace took responsibility.
+
+Monday, when asked about any government involvement in the North Korean Internet outage, U.S. State Department spokeswoman Marie Harf said, "As the president said, we are considering a range of options in response.
+
+“We aren’t going to discuss publicly operational details about the possible response options or comment on those kinds of reports in any way except to say that, as we implement our responses, some will be seen, some may not be seen,” Harf said.
+
+Regarding a demand by the North that the U.S. apologize for linking it to the Sony cyberattack, Harf said, "As the FBI (Federal Bureau of Investigation) and the president have made clear, we are confident the North Korean government is responsible for this destructive attack.
+
+“We stand by this conclusion. The government of North Korea has a long history of denying responsibility for destructive and provocative actions and, if they want to help here, they can admit their culpability and compensate Sony for the damages they cause,” Harf said.
+
+Troy Stangarone of the Washington-based Korea Economic Institute said he does not rule out U.S. involvement in a retaliatory attack on Pyongyang, but said it may also have been the work of an Internet hacking group such as Anonymous.
+
+"This does seem like something that fits more into the pattern of a group like Anonymous, even if it is not Anonymous, than it does a government-to-government attack,” Stangarone said.
+
+“But, that being said, I think it’s going to be very difficult to pin down who it is. I think that, at the end of the day, though, this is a little more public than I thought that the U.S. government would like to have taken in terms of retaliation. In some ways, I think what the U.S. government is looking to do is send a signal to North Korea that there are costs for these types of actions, but not something so public that North Korea feels a need to respond and escalate the situation,” he said.
+
+According to the Internet news website Ars Technica, Anonymous has expressed collective discontent over Sony’s withdrawal of “The Interview.” It also said the hacking group Lizard Squad has claimed responsibility for a denial-of-service attack on North Korea’s computer networks.
+
+Ars Technica also suggested on its site China may be attempting to shut down the North’s Internet connections to avoid future North Korean attacks it considers opposed to Chinese interests.
+
+Reuters quoted senior Obama administration officials as saying the United States asked for China’s help to shut down servers and routers used by the North and identify hackers operating inside China. Stangarone said such a request would seem plausible.
+
+He said North Korea is only connected to the Internet through China, meaning any attack the U.S. would do would have to be routed through China.
+
+China’s Foreign Ministry Tuesday called reports of China’s involvement in cutting off North Korea’s Internet access "irresponsible."
+
+The state-run China Daily says Beijing has stated its opposition to any form of cyber-attack and has yet to make a final judgment regarding the hacking of Sony Pictures. It called on the United States to provide tangible evidence of Pyongyang’s involvement.
+
+In a separate article, China Daily denounced “The Interview” as “a lame, ill-conceived comedy” and “a nasty, racist film written by a comic team looking for quick bucks and cheap laughs."

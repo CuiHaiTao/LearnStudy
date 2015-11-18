@@ -1,0 +1,1 @@
+perl merge_Two_FileUseTab.pl E:\Task\train\Label\train_file_006.lbl E:\Task\train\feature\train_006_PosChunk.feature train_006_posChunk

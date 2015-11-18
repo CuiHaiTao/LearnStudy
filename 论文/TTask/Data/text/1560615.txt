@@ -1,0 +1,125 @@
+Iranian oil tankers are sending incorrect satellite signals that confuse global tracking systems and appear to conceal voyages made by other ships to Syria, which, like Iran, is subject t...Iranian oil tankers are sending incorrect satellite signals that confuse global tracking systems and appear to conceal voyages made by other ships to Syria, which, like Iran, is subject to international sanctions.
+
+ 
+
+ The two countries are close allies and have helped each other deal with shortages by swapping badly needed fuels such as gasoline for diesel.
+
+ 
+
+ Sanctions imposed on Iran to hamper its nuclear program have blocked sales of its oil to the West and made it increasingly difficult for Iran's fleet to obtain insurance and financing for deals with Asian buyers in China, India and South Korea.
+
+ 
+
+ Western sanctions have also isolated Syria, preventing it from exporting oil, while blocking fuel and weapons imports.
+
+ 
+
+ Iranian state tanker company NITC has already changed many tanker names as part of its response to sanctions, though shipping experts say such a tactic would not confuse anyone in the business about a vessel's whereabouts.
+
+ 
+
+ A New Twist
+
+ 
+
+ Now tanker tracking data monitored by Reuters and shipping specialists have highlighted a more subtle twist.
+
+ 
+
+ Large vessels must transmit their identity and location to other ships and coastal authorities using an automatic satellite communication system, but in the last month Iranian vessels sailing in Asian seas have sent signals that took over the identity of other vessels, so the same ship appeared to be in two places at once.
+
+ 
+
+ "It is of course possible to manipulate or falsify information in these messages," said Richard Hurley, a senior analyst at IHS Fairplay, a maritime intelligence publisher.
+
+ 
+
+ At least three Iranian oil tankers are transmitting such false signals, effectively taking over the identity of Syrian-owned vessels traveling between Syria, Libya and Turkey.
+
+ All the vessels in question were registered in Tanzania.
+
+ 
+
+ Iranian oil tanker Millionaire sent messages that doubled over a voyage made by a Syrian-owned ship, the Lady Rasha.
+
+ 
+
+ In a separate instance, the satellite tracks of Iranian oil tanker Pioneer were mixed up with a Tanzania-flagged cargo ship called the Talavera, recently renamed Chief Ahmed, and traveling from the Mediterranean into the Red Sea.
+
+ 
+
+ Despite all the paired vessels appearing to be registered under Tanzanian flags, officials in mainland Tanzania and Zanzibar denied holding any information on the vessels.
+
+ 
+
+ They have directed queries to a shipping agency in Dubai, Philtex Corporation, which they say registered some Iranian ships under the Tanzanian flag without their knowledge.
+
+ 
+
+ Philtex confirmed it had registered the Syrian-owned Lady Rasha, but could not provide details on the Iranian tankers in question.
+
+ 
+
+ False Data
+
+ 
+
+ Peter Blackhurst, head of maritime security at Inmarsat, which provides satellite communication services, said a ship could get its Global Positioning System (GPS) to give false data, including pretending to be another vessel.
+
+ 
+
+ "That equipment is programmable one way or another," he said, adding that he had come across data manipulation by ships involved in illegal fishing or waste dumping.
+
+ 
+
+ Syrian-owned Lady Rasha's satellite track first mixed up with the Iranian-owned oil tanker Millionaire on October 20, when the tanker began transmitting the same signal as the cargo ship.
+
+ 
+
+ Lady Rasha was then docked in Benghazi, Libya. The Millionaire tanker was sailing in the Indian Ocean.
+
+ 
+
+ To do this, the Millionaire changed its MMSI, a message that contains both location and identity data, from 572450210 to match the Lady Rasha's number: 677030700.
+
+ Although the Lady Rasha sent signals during its journey across the eastern Mediterranean, its identity was overwritten by the Iranian ship, which was also sending position signals of its own from the Indian Ocean.
+
+ 
+
+ As a result, the Millionaire appears to be undertaking two parallel journeys thousands of miles apart, while the Lady Rasha's track is not plotted.
+
+ 
+
+ On one track the Millionaire can been seen sailing the Lady Rasha's course in the Mediterranean, and on the other it is powering though the Indian Ocean from east Asia back to Iran.
+
+ 
+
+ However, another piece of identification data, the IMO, can't be changed, and that, too, is sent with every message on position, which enabled vessel-tracking experts to detect that signals came from two different ships.
+
+ 
+
+ Mystery Crates
+
+ 
+
+ A day after the Millionaire's MMSI changed, the Lady Rasha left Libya and arrived in Syria on October 26, the Tartous port authority said, where it unloaded cattle and crates, the contents of which the Syrian port authority said were not known.
+
+ 
+
+ The Lady Rasha is owned by ISM Group, according to the Syrian port authority at Tartous, a firm that came under the spotlight after Lebanon seized one of its ships with three containers filled with weapons earlier this year, including explosives with labels indicating their origin as Libya.
+
+ 
+
+ The port authority at Tartous confirmed the Lady Rasha had called there and the Millionaire had not, but a senior NITC official denied the Iranian tanker had sent out signals that belonged to another ship.
+
+ 
+
+ The Lady Rasha's owners could not be reached for comment, while the agency that registered the vessel with Tanzania said it was unaware of the duplicate signals.
+
+ 
+
+ "We have no idea and we cannot justify why they are emitting the same satellite signals," said Jocelyn Acosta, director of operations at registering agency Philtex Corporation.
+
+ 
+
+ Acosta said Philtex cooperated with requests made by United States government agencies and others to identify a ship's owner and had deregistered a number of vessels accordingly.

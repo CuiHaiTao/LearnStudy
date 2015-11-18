@@ -1,0 +1,24 @@
+my $d=49;
+my $str=sprintf "%08b",$d;
+print $str;
+print "\n";
+$d=($d<<4);
+my $str=sprintf "%08b",$d;
+print $str;
+print "\n";
+my $c = ($d>>4);
+my $o = $d|$o;
+my $str=sprintf "%08b",$o;
+print $str;
+print "\n";
+$d=(($d<<2)&0xcc)|(($d>>2)&0x33);  
+$d=(($d<<1)&0xaa)|(($d>>1)&0x55);  
+my $str=sprintf "%08b",$d;
+print $str;
+
+#my $d=0x49;
+$d=($d<<4)|($d>>4);  
+$d=(($d<<2)&0xcc)|(($d>>2)&0x33);  
+$d=(($d<<1)&0xaa)|(($d>>1)&0x55);  
+my $str=sprintf "%x",$d;
+print $str;

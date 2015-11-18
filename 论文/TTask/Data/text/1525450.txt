@@ -1,0 +1,85 @@
+U.S. Defense Secretary Leon Panetta has revealed some details of U.S. plans to deal with a massive cyber attack. Those plans include launching a possible cyber-offensive in what some analysts say is ...U.S. Defense Secretary Leon Panetta has revealed some details of U.S. plans to deal with a massive cyber attack. Those plans include launching a possible cyber-offensive in what some analysts say is a message to Iran.
+
+  
+
+ With thousands of enemy cyber-actors probing the Pentagon’s systems millions of times a day, the secretary of defense has spoken about the threat of a massive cyber attack before. But his warnings late Thursday in New York have been the strongest yet.
+
+  
+
+ “This is a pre-9/11 moment. The attackers are plotting,” said Panetta.
+
+  
+
+ Panetta said it is no secret that Russia and China have advanced cyber capabilities and he said Iran has also undertaken concerted efforts to use cyberspace to its advantage.
+
+  
+
+ U.S. officials have blamed Iran for a massive cyberattack two months ago on systems at the Saudi company Aramco and a natural gas company in Qatar. The assault, known as Shamoon, infected 30,000 computers.
+
+  
+
+ In his remarks Thursday, Panetta did not link Iran to the Shamoon attacks, which he said mark a significant escalation of the cyberthreat - and even more destructive scenarios that could unfold. Among these: train derailments, the shutdown of power grids, and the contamination of water supplies. 
+
+  
+
+ He said the United States has taken steps to be ready for a strike on U.S. installations.  He said the Pentagon would - in some instances - not wait for an attack before it launches an offensive.
+
+  
+
+ “If we detect an imminent threat of attack that will cause significant, physical destruction in the United States or kill American citizens, we need to have the option to take action against those who would attack us to defend this nation when directed by the president,” said Panetta.
+
+  
+
+ Panetta said the U.S. military has pumped $3 billion into cyber security efforts that include the recruitment of an army of cyber-warriors to fight off attacks.
+
+  
+
+ Gary Schmitt, a security analyst at the American Enterprise Institute in Washington, sees Panetta’s strong remarks as a message for Iran.
+
+  
+
+ “This is Secretary Panetta essentially saying ‘this is enough.’ It somewhat reminds you that cyber warfare is the kind of warfare that impinges on being terrorism,” said Schmitt. “So, Iran, the tens of thousands of computers that it shut down in the Gulf, it would be the same thing as if an Iranian agent were to throw a bomb into a room with a variety of servers.”
+
+  
+
+ Critics of that message include George Smith, a cyber specialist at Globalsecurity.org, whose job for several years has been to analyze the U.S. government’s assessments of cyberthreats. He said Iran’s capabilities are not as developed as those of the United States, and he believes issuing warnings about cyber attacks may actually encourage Tehran to launch them.
+
+  
+
+ “They came to the game late. In cyberspace, it’s basically an arms race, so people are going to be spurred by what they perceive other people to be doing.”
+
+  
+
+ Panetta is urging Congress to pass cybersecurity legislation that would allow for information sharing between the private sector and the government. The bill has been stuck in a political battle. In the meantime, he said the White House may put out an executive order to enforce some elements of the measure.
+
+ 
+
+ Here's a history of some major cyber attacks:
+
+ 
+
+ Ongoing - Since mid-2006, Operation Shady RAT attacks have targeted 72 organizations, including governments and defense contractors.
+
+ 
+
+ July 2011 - SK Communications, a South Korean communications company, is hacked, resulting in the theft of personal details of up to 35 million people.
+
+ 
+
+ November 2010 - The Indian Cyber Army allegedly targeted websited of the Pakistan Army and several other ministries, including education, finance and foreign affairs. A month later the Pakistan Cyber Army attacked India’s Central Bureau of Investigation.
+
+ 
+
+ November 2010 - Massive volumes of Defense Department data is rerouted through China for 18 minutes. China denied any involvement.
+
+ 
+
+ September 2010 - The Stuxnet worm attacks Iran's Natanz nuclear facility, specifically targeting centrifuges related to uranium enrichment. Described as the most advanced piece of malware ever devised, some have speculated it was developed by U.S. and Israeli intelligence.
+
+ 
+
+ January 2010 - Google reports the loss of intellectual property after an attack on its infrastructure. The attack purportedly originated in China.
+
+ 
+
+ July 2009 - A series of coordinated denial of service attacks against target government, financial and media websites in South Korea and the U.S.

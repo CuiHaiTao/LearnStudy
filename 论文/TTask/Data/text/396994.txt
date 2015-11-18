@@ -1,0 +1,31 @@
+Taiwan Semiconductor Manufacturing Company is a trailblazer in the field of made-to-order semiconductor chip making. Company founder and CEO Morris Chang is known as the godfather of the foundr...Taiwan Semiconductor Manufacturing Company is a trailblazer in the field of made-to-order semiconductor chip making. Company founder and CEO Morris Chang is known as the godfather of the foundry industry and is credited by many as the originator of the foundry model. TSMC is one of many Asian conglomerates that in recent years have become dominant forces in global business. Jacques van Wersch in Taipei brings us this segment of a series looking at five Asian corporate giants.
+
+If Morris Chang had passed the qualification exam for doctoral studies at the Massachusetts Institute of Technology, where he earned his masters degree in the mid-1950s, it is quite possible he would not have started what has become the world's dominant computer chip foundry.
+
+Mr. Chang wrote in his 1998 Chinese autobiography that he could not face his family back in Taiwan without a Ph.D., so he stayed on in the United States, working for semiconductor companies. One of those was Texas Instruments, where he stayed for 25 years and rose to become senior vice president.
+
+Eventually, Taiwan's government recruited Mr. Chang to head a non-profit technology research institute in 1985. Two years later, he left and founded Taiwan Semiconductor Manufacturing Company - TSMC.
+
+His ideas of how to run a company were heavily influenced by his American experience. Betty Lin, a research manager with IDC, an information technology and telecommunications research company, explains that this was key to the success of the chip foundry model in Taiwan. "Management, they really have an in-depth experience, either technology-wise or management-wise, to bring the experience back from the West. That really helped build up the entire business model - not just from entrepreneurial type of venture, but also from really fundamental infrastructure," she says.
+
+The foundry model that Mr. Chang played a major part in inventing involves making integrated circuit chips - which are at the heart of computing - for companies that in the past made their own. Foundries, or fabs, require an investment of several billion dollars that even large electronics component and computer makers shy away from. The foundry model went hand in glove with the establishment of what are known as fab-less semiconductor companies.
+
+Mike Clendenin, the Taiwan and China bureau chief of EE Times, which reports on the electronics industry, says TSMC produces 40 to 45 percent of all foundry chips. While this is only a fraction of the total revenue in the semiconductor industry, he says it is rising. "As Morris continues to say, and I think a lot of people agree, the foundry industry will continue to outpace the growth of the regular semiconductor industry; so you can look forward to about in 2010, [when] the foundry industry is supposed to grow from 15 percent of the overall semiconductor industry to about 30 percent," he says.
+
+TSMC is one of several companies from smaller Asian economies that have become dominant players in the world market. In Taiwan, many of these companies, like TSMC, have exploited the surging global demand for computers and computer chips.
+
+One place where growth in foundry chip making is expected to skyrocket is mainland China, driven by domestic demand for computers.
+
+Yet, Taiwan's government is cautious about clearing Taiwanese companies to open foundries - and other industries - across the Taiwan Strait. Its main reason is that China has not ruled out using force against Taiwan, which it considers to be its territory, should it pursue independence; in such an event Taipei fears losing key investments.
+
+Nevertheless, pressure from Taiwan businessmen to set up in the mainland has led to recent approval for TSMC to open one plant in Shanghai.
+
+IDC's Betty Lin says the move toward China is not a short-term consideration. "I think the major reason why, not just TSMC or UMC [United Microelectronics Corp] but also the other players wanted to have a share in China, is because they want to be in a position where they can get traction for when the opportunity comes," she says.
+
+Mr. Clendenin at the EE Times says that Mr. Chang apparently sees that China is an investment for the long term. "Morris Chang recently said that he didn't think his factory in China that they're opening at the end of this year would be as competitive from a cost perspective for four of five years, and what that says is that that the Taiwanese have achieved such an efficient economy of scale in Taiwan that they simply can't be beat for a while," he says.
+
+Mr. Clendenin says there is another reason TSMC wants to be in China - to make sure its competitors do not get there first and come to dominate Chinese production.
+
+Even without China, TSMC is expected to maintain its place atop the dedicated foundry industry in the foreseeable future.
+
+As for 73-year-old Morris Chang, he is one of Taiwan's most successful entrepreneurs and innovators. And just for the record - before his return to Taiwan, Mr. Chang did earn a Ph.D. in electrical engineering from Stanford University, earned on a Texas Instruments fellowship in 1964.

@@ -1,0 +1,157 @@
+WADVC	He lives where there are a lot sheep .	O_5Feature Wadv_1Feature
+RADVC	You must do as your parents tell you .	O_5Feature
+CMBS	he was certain , However he was wrong .	CMBS_A
+CADVC	If you fail in the exam , you will let him down .	Cadv_2Feature
+ATC	The man whom we sent the present to is a doctor of laws .	Att_1Feature
+ATC	Mr Liu is the person whom you talked about on the bus .	Att_1Feature
+CCSADVC	Child though he is , he know a lot .	Ccsadv_5Feature
+ATC	Yesterday I helped an old man who had lost his way .	Att_FirstFeature Att_1Feature
+CMAS	Neither did the naughty boy go home nor did his parents come to search for him .	O_5Feature
+ATC	I admire the man , who wears a big smile .	Att_4Feature
+PADVC	Say it louder that everyone can hear you .	O_3Feature
+TADVC	When I die , my children can take care of themselves .	NoN
+NATC	Have you seen the film Titanic , whose leading actor is world famous ?	Att_4Feature
+OC	We 'll be told tomorrow whether we should take the exam or not .	O_2Feature
+CCSADVC	No matter what happened , he would not mind .	Att_FirstFeature Ccsadv_3Feature
+AC	I 've come to the conclusion that it was unwise to do that .	Fst_ApposFeature
+PC	My hope is that he will keep it a secret for ever .	PRD_1Feature Fst_ApposFeature
+PADVC	We seemed to understand human nature as well as do science .	SS_A
+WADVC	He advised me to live where the air is fresher .	O_5Feature Wadv_1Feature
+TADVC	By the time the war ended , millions of children became orphans .	Tadv_6Feature
+CADVC	We can walk there if we ca n't find a bus .	O_1Feature Cadv_2Feature
+CMAS	I help him and he helps me .	CMAS_A
+ATC	This is one of the basic reasons why some of our work ca n't be done well .	Att_1Feature
+CMAS	He was working in a shoes factory and now he retires .	Radv_FirstFeature CMAS_A
+WADVC	Everywhere they went , they were warmly received .	NoN
+AC	Word came that he had been abroad .	O_5Feature Fst_ApposFeature
+SC	What he needs are some books .	NoN
+ATC	The sun heats the earth , which makes it possible for plants to grow .	Att_4Feature
+WADVC	With a car , a person can go where he pleases and when he pleases .	O_5Feature Wadv_1Feature
+TADVC	I have heard a lot of good things about you since I came back from abroad .	Tadv_2Feature
+PC	The problem is how we can get the things we need .	PRD_1Feature Fst_ApposFeature
+OC	I do n't care whether or not it will rain .	O_5Feature CMCS_A
+CCSADVC	While I like the color , I do n't like the shape .	NoN
+RADVC	Since you 're not interested , I wo n't tell you about it .	NoN
+OC	He told us that they would help us though the whole work .	O_2Feature
+PADVC	An object draws the harder , the more matter it contains .	Att_FirstFeature
+AC	My question how I shall get in touch with him has not been answered .	Fst_ApposFeature
+ATC	We may eventually become members of the club , but this is not something that should be rushed into .	Att_FirstFeature Att_1Feature CMBS_A
+RADVC	He looks as if he is angry .	O_5Feature Ccsadv_6Feature Mnradv_3Feature
+AC	I had no idea that you were here .	Fst_ApposFeature
+SC	It is said that Mr. Green has arrived in PLACE .	NoNP2 O_5Feature
+TADVC	We were having our picnic when it rained .	Tadv_8Feature
+AC	We all cheer up when we heared the news that our team won the first prize .	O_1Feature Tadv_8Feature
+NATC	He may have acute appendicitis , in which case he will have to be operated on .	Natt_1Feature
+CMPADVC	He eats more than is good for him .	SS_A
+PC	The trouble is that we are short of funds .	PRD_1Feature
+NATC	The novel is very interesting , which made me very glad .	Att_4Feature
+SC	What you need is more practice .	NoN
+RADVC	They completely ignore these facts as if they never existed .	Att_4Feature Ccsadv_6Feature Mnradv_3Feature
+ATC	This is the point , from which all distances are measured .	Natt_1Feature
+CMBS	I am sorry to trouble you , but can you show me the way to the park .	CMBS_A
+PADVC	She drives better than her husband does .	PRD_1Feature CMCS_A CMCS_A
+PADVC	The more you read , the better will you write .	O_1Feature Cmpadv_3Feature
+OC	I think it very strange that he goes out walking almost every night .	O_2Feature Cmpadv_2Feature
+ATC	He likes to read books which are written by foreign writers .	O_3Feature
+CADVC	The other banks are going to be very eager to help , provided that they see that he has a specific plan .	O_2Feature O_2Feature Att_FirstFeature Att_1Feature
+TADVC	It began to rain just as I arrived home .	O_5Feature Cadv_1Feature
+AC	Xiao Wang has solved the problem why the TV was out of order .	O_5Feature Ccsadv_6Feature
+ATC	The boy , whose father is an engineer , studies very hard .	Fst_ApposFeature
+CMPADVC	Work is as necessary for sound mind as it is necessary for sound body .	Att_4Feature
+NATC	Peter , whom you met in PLACE , is now back in PLACE .	Att_4Feature Att_4Feature Cmpadv_1Feature
+ATC	The reason why he is late is that his car went wrong .	Att_FirstFeature
+PC	His suggestion is that we should stay calm .	NoN
+ATC	PLACE is , as you know , an inseparable part of PLACE .	Att_1Feature
+ATC	His mother , who loves him very much , is strict with him .	PRD_1Feature Fst_ApposFeature
+OC	I thought it impossible that he could finish this job in just two hours .	NoN
+AC	I have no idea when he will be back .	Att_4Feature
+TADVC	We were about to leave when he came in .	O_3Feature
+ATC	The bike and its rider that had run over an old man were taken to the police station .	Fst_ApposFeature Tadv_8Feature
+SC	It remains to be seen whether it will do us harm or good .	O_5Feature Tadv_8Feature
+ATC	Mr Smith , from whom I have learned a lot , is a famous scientist .	Att_FirstFeature Att_1Feature
+CMAS	The sun not only gives us the light but also it gives us heat .	NoNP2 O_5Feature
+CADVC	If you want to lose weight you must eat less bread .	NoN
+PADVC	He moves more slowly than his sister does .	SS_A
+CMBS	he was our friend , yet he would n't help us .	Cadv_2Feature
+NATC	He forgot to bring his pen with him , as was often the case .	Cmpadv_3Feature
+SC	It shocked me that Peter did not tell anybody where he was .	CMBS_A
+ATC	I have no money that I can spare .	Att_4Feature
+ATC	Returning to a city where one used to live can be a saddening experience .	NoN
+CCSADVC	No matter which book you borrow , you must return it in a week .	Att_1Feature
+CCSADVC	Though he is very old , yet he is quite strong .	Att_3Feature
+RSLADVC	He speaks so fast that no one can catch him .	Att_1Feature Ccsadv_3Feature
+ATC	The time when we got together finally arrived .	CMBS_A
+WADVC	We ca n't cooperate where there is no common benefit .	Rsladv_FirstFeature
+CMPADVC	Man grows faster than the planet he inhabits .	Att_3Feature Tadv_7Feature
+AC	I 've come from Mr wang with a message that he wo n't be able to see you this afternoon .	O_5Feature Wadv_1Feature
+PC	The point is whether we should lend him the money .	NoN
+RADVC	He walked forward as if making a speech .	Fst_ApposFeature
+CADVC	Unless you keep the meat in the fridge , it goes bad .	PRD_1Feature
+ATC	He was watching the children and parcels that filled the car .	SS_A
+NATC	His head soon appeared out of the second storey windows , from where he could see nothing but trees .	Cadv_2Feature
+CADVC	Providing there is no opposition , we shall hold the meeting here .	Att_FirstFeature Att_1Feature
+ATC	I visited the farm where a lot of cows were raised .	Tadv_6Feature Wadv_1Feature
+ATC	The man whom you met just now is my old friend .	O_5Feature Cadv_FirstFeature
+NATC	I admire the man , who wears a big smile .	Wadv_1Feature
+AC	He must answer the question whether he agrees to it or not .	Att_1Feature
+CMBS	Hurry up or you will miss the first bus .	Att_4Feature
+AC	I have gotten the message that Tom had won the game .	Fst_ApposFeature
+SS	They work hard .	SS_A
+SC	It was a problem whether they would support us .	O_2Feature Fst_ApposFeature
+RADVC	As it was raining , I stayed at home .	SS_A
+ATC	I like the book whose cover is yellow .	NoNP2 Fst_ApposFeature
+CMBS	she would be late , yet she arrived on time .	NoN
+CCSADVC	Though you may object , I 'll go .	Att_FirstFeature Att_1Feature
+ATC	Li Ming is just the boy whom I want to see .	CMBS_A
+NATC	She was very patient towards the children , which her husband seldom was .	NoN
+WADVC	Make a mark where you have any question .	SS_A
+ATC	He is the last man that I want .	Att_1Feature
+CMFS	The student got up late this morning , so she did n't catch the early bus .	NoN
+RADVC	He treats me as if I am a stranger .	Wadv_1Feature
+CADVC	Unless PLACE improve their game they 're going to lose the match .	Att_1Feature
+AC	The fact that the money has gone does not mean it was stolen .	CMRS_A CMRS_A
+ATC	Glass , which breaks at a blow , is , nevertheless , capable of withstanding great pressure .	Att_4Feature Ccsadv_6Feature Mnradv_3Feature
+PC	His first question was whether Mr. Smith had arrived yet .	Cadv_2Feature
+AC	He sent us a message that he wo n't come next week .	O_2Feature Fst_ApposFeature
+OC	Everything depends on whether you agree with us .	Att_4Feature
+CCSADVC	Though he was worn out , still he kept on working .	PRD_1Feature Fst_ApposFeature
+TADVC	I was just reading a book when she came into my room .	O_2Feature Fst_ApposFeature
+TADVC	You grow younger every time I see you .	O_1Feature
+CMFS	He was a beggar now , for he had lost millions in a night .	NoN
+RSLADVC	The shop sells so expensive goods that I want to buy nothing in it .	Tadv_8Feature
+NATC	He has a son , who is an actor .	Tadv_6Feature
+SC	It is common knowledge that the whale is not a fish .	Radv_FirstFeature CMRS_A
+ATC	He is absorbed in work , as he often was .	O_2Feature Att_1Feature Rsladv_FirstFeature
+NATC	Mr Smith , from whom I have learned a lot , is a famous scientist .	Att_4Feature
+SS	She became a lawyer .	NoNP2 Fst_ApposFeature
+OC	The teacher said that the moon goes around the earth yesterday .	NoN
+CCSADVC	Whatever you say , I wo n't believe you .	NoN
+CMBS	You clean the window while I mop the floor .	SS_A
+ATC	He gives the driest speech that I have ever listened to .	O_5Feature
+SC	Whatever she did was right .	Ccsadv_FirstFeature
+AC	There is no doubt that he is fit for this job .	NoN
+ATC	He quickly knocked out the few things that had to be looked after before leaving .	Att_1Feature
+CCSADVC	Whether you believe it or not , it 's true .	Ccsadv_FirstFeature
+TADVC	He had hardly fallen asleep when he felt a soft touch on his shoulder .	Fst_ApposFeature
+SS	He is generous .	Att_FirstFeature Att_1Feature
+ATC	The Thames , which is now clean enough to swim in , was polluted for over a hundred years .	CMCS_A
+ATC	This is the boy whom I played tennis with yesterday .	O_1Feature Tadv_8Feature
+OC	Please tell me when we 'll have the meeting .	SS_A
+TADVC	I have been in PLACE since you left .	Att_4Feature
+AC	I have no idea what size shoes she wears .	Att_1Feature
+ATC	I once lived in the house whose roof has fallen in .	O_2Feature Tadv_8Feature
+SS	We never beat children .	Tadv_2Feature
+OC	I feel it a pity that I have n't been to the get-together .	Fst_ApposFeature Att_FirstFeature
+ATC	Our guide , who was a French Canadian , was an excellent cook .	Att_FirstFeature Att_1Feature
+RADVC	He hurriedly left the moon as though she were angry .	SS_A
+CCSADVC	Even if he is poor , she loves him .	O_3Feature Att_1Feature
+ATC	That is the reason why we must go now .	Att_4Feature
+MNRADVC	You must do as your parents tell you .	O_2Feature Att_4Feature Ccsadv_FirstFeature Ccsadv_6Feature Mnradv_3Feature
+MNRADVC	It looks as if the weather may pick up very soon .	Ccsadv_1Feature
+TADVC	Mary made coffee while her guests were finishing their meal .	Att_1Feature
+OC	I have found out that all the tickets for the concert have been sold out .	O_5Feature
+CMFS	I am thirsty , for it is hot .	O_5Feature Ccsadv_6Feature Mnradv_3Feature
+CADVC	I would n't be saying this unless I were sure of the facts .	O_2Feature
+OC	We decided whether to walk there .	O_1Feature
+PC	My problem is which computer to choose .	CMRS_A
+ATC	All the presents that your friends give you on your birthday should be put away .	Cadv_2Feature

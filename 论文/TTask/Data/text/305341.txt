@@ -1,0 +1,33 @@
+U.S.-made computer products and filtering software are helping repressive countries, like China and Iran, control what their citizens see on the Internet. The issue is getting wider attention, as mor...U.S.-made computer products and filtering software are helping repressive countries, like China and Iran, control what their citizens see on the Internet. The issue is getting wider attention, as more and more people around the globe have access to the World Wide Web.
+
+Information is power, and for countries like China and Iran, this concept manifests itself in strict government control of the mass media.
+
+In the old days, when mass media were dominated by print and broadcast outlets, that control was relatively easy and effective. Now, though, new technologies to facilitate communication are giving repressive governments new headaches.
+
+One of these new areas is the Internet, which has a growing number of users among ordinary people in both China and Iran. In China, there are more than 94 million Internet users out of a population of 1.3 billion people. There are more than four million Internet users in Iran, which has a population of 68 million people.
+
+Julien Pain, from the group, Reporters Without Borders, says these countries make it difficult, but not impossible, for ordinary people to use the Internet to spread the kind of information that would not appear in the mainstream media.
+
+"In countries such as China and Iran, you have to be brave to publish political content online," he said. "You know, it's not a hobby."
+
+In Iran, individual Internet service providers are responsible for filtering content. Iranian-American journalist Azadeh Moaveni, who often reports from Tehran for Time Magazine, says, even as recently as two years ago, Internet controls in Iran were relatively loose.
+
+"But in the last year or so, the government has become much more serious about how it wants to control it," he explained. "And so, Internet service providers are forced to use a box that is provided to them officially, through the judiciary, that sets up the firewalls for Internet users."
+
+There are some Iranian Internet service providers that use American filtering software, called SmartFilter, to censor content, though export controls keep U.S. companies from selling their products directly to Iran. This is not the same story for China, where American companies are being accused of providing many of the tools that help Beijing tighten its grip on the Internet. These tools include not only hardware and software, but also voluntary cooperation with Chinese authorities.
+
+One recent case involves Chinese journalist Shi Tao, who was arrested and sentenced in April to 10 years in prison for "illegally providing state secrets abroad." Human rights groups say Web search engine Yahoo provided Chinese authorities with e-mail account information that helped Chinese authorities make the conviction.
+
+Beijing is also buying American hardware to crack down on the Internet in China. Rebecca MacKinnon, with Harvard Law School's Berkman Center for Internet and Society, says it is a subtle situation, because routers from companies like Cisco Systems are also used in countries with free flow of information to filter out harmful things, such as computer viruses, or to block pornography in places like public libraries. But she says she believes Cisco may be helping to train Chinese authorities on how to use the hardware to filter even more things out.
+
+"When they're [Cisco] selling stuff, and they're marketing it, and they know how it's being used, there is no line being drawn about what they should be assisting, and what they shouldn't," she said. "And so, my argument has been that there needs to be more scrutiny on this, and there needs to be a lot more questions asked. And it's clearly not murky. It's not like we should deny China the Internet, or deny China Cisco routers. But here we are claiming, as Americans, we believe people should have free speech, and our companies are going and helping to stifle it."
+
+A spokesman for Cisco, Ron Piovesan, says the products his company sells to China are exactly the same as those that are sold to any other country in the world.
+
+"We can't control how our customers use our equipment," he noted. "Our equipment does come with certain security features, which are used to block, for example, to block viruses from infecting a network, or to prevent a hacker from stealing a credit card company's [information], or to protect confidential medical information. So, when you talk about a security feature, that is the mainstream uses of a security feature that are inherent within a lot of Cisco's products."
+
+China recently stepped up its control over the Internet by announcing new regulations governing content on news Web sites. In response to a question about these new rules, State Department spokesman Sean McCormack said, Washington considers free expression a universal right.
+
+"Any effort to limit freedom of expression, any effort that would have a chilling effect on freedom of expression and freedom of the press is something that is of concern to us," he said.
+
+When asked what Washington thinks about American companies helping the Chinese government with Internet censorship, Mr. McCormack did not directly address the question. At the same time, he acknowledged that he is not aware of any direct discussions on the issue between the U.S. government and any American computer companies.

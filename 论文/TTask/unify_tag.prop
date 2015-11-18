@@ -1,0 +1,56 @@
+#
+# Features
+#
+useClassFeature=true
+#1.realValued=true
+#2.realValued=true
+
+#1.useNGrams=true
+#1.usePrefixSuffixNGrams=true
+#1.maxNGramLeng=7
+#1.minNGramLeng=1
+#1.binnedLengths=10,20,30,40,50,60,70,80,90,100
+
+#
+1.splitWordsRegexp=\\s+
+1.useSplitWords=true
+1.useSplitWordNGrams=true
+1.maxWordNGramLeng=2
+1.minWordNGramLeng=1
+#1.splitWordsRegexp=\\s+
+#
+#2.useSplitWords=true
+#2.useSplitWordNGrams=true
+#2.maxWordNGramLeng=2
+#2.minWordNGramLeng=1
+#
+#
+
+#
+# Printing
+#
+# printClassifier=AllWeight
+printClassifierParam=200
+#
+# Mapping
+#
+#goldAnswerColumn=0
+#displayedColumn=1
+displayAllAnswers=true
+BestN=5
+#
+# Optimization
+#
+intern=true
+sigma=3
+useQN=true
+QNsize=15
+tolerance=1e-4
+#
+# Training input
+#
+#serializeTo=./train/set1clsier
+loadClassifier=./train/chunk1clsier
+#trainFile=./train/train_file_std.test
+#printTo=./train/testprintTo
+testFile=./train/test_file_std.tag

@@ -1,0 +1,80 @@
+Computer programming contest draws world's best mindsCall it the "Olympics of the Mind". 
+
+
+
+Earlier this month, the world's brainiest people were in Harbin, China, for the 34th annual Battle of the Brains, the oldest, most prestigious computer programming contest in the world. 
+
+
+
+Seated at individual tables in a large meeting hall, the three-member teams - from 103 universities in 88 countries - each huddled around a single computer, spending five hours trying to solve as many complex, real-world problems as they could.
+
+Complex problems
+
+
+
+"One of the programming problems was try to figure out how to break an arbitrary chocolate bar into a certain number of pieces of a certain number of sizes and to do it as quickly as possible," says Jerry Cain, coach of the Stanford University team. "That's probably the simplest of all of them."
+
+
+
+Other problems involved paperweights, robots and castles. Cain says the students were challenged to write a program to determine how many lakes would form in an area after a heavy rain, and to identify the most efficient route for an irrigation channel through a field.
+
+"One other problem posed a scenario where you had to sail from the westernmost of several islands to the easternmost of several islands and back, and to visit all the islands in the area in the process," says Cain.  Students had to deal with issues of fuel and efficiency as well.
+
+
+
+Solving the problems requires creativity, knowledge and teamwork. The first step, Cain says, is to rank the problems by difficulty. Then the three teammates must figure out the requirements of each problem, design ways to test their approach to the solution, and write software systems to accomplish it. Even the winning teams - Shanghai Jiaotong University and second place Moscow State University - were not able to solve all 11 problems in the given time. 
+
+
+
+Stanford's team solved five of the problems, finishing with 21 other teams in 14th place, just behind the medalists. Coach Cain sees the competition as a real-world lesson and opportunity for his students.
+
+Real-world lesson
+
+
+
+"I think Stanford students and probably a lot of students at top schools can be lulled into thinking they are at the top of their game," he says. "The fact that they come in 14th illustrates to them there are lots of other people around the world who are also very good at programming. It's actually very nice for them to meet all these people. They are making friends with people from China, from Egypt, from Europe."
+
+
+
+"The competition is a lot of fun," says Jeffrey Wang, a member of Stanford's team. "It really appeals to people like me, who love to solve problems."
+
+
+
+During their one-week stay in China for the Battle of the Brains, Wang says the students enjoyed a different sort of contest at Harbin's International Snow and Ice Sculpting Festival.
+
+
+
+"We had an ice sculpture contest where we worked with one of the Russian teams to build this really awesome ice sculpture," he recalls. "It was really a good bonding experience, two teams who are separated by thousands of miles across the world and yet, have this common interest, this passion for computer science." 
+
+
+
+Stanford was one of 21 U.S universities participating in the contest this year. IBM's Doug Heintzman, the contest spokesman, says Asian and European countries also sent many teams.
+
+Global challenge
+
+
+
+"China is close behind with about 20 teams and certainly Russia, Poland and many of the eastern European countries are very well represented, as is Canada," he says. "As the competition has become more global and as the world has become a much smaller place, it's really amazing to see just extraordinarily bright people show up in all corners of the planet."
+
+
+
+What began in 1970 as a computer programming competition at one Texas university has gained popularity and participants, and grown into a prestigious international event.
+
+
+
+"There was a Chinese team last year that solved 3,500 problems in training for the competition," he says. "The Russian president met the Russian team that won last year from St. Petersburg at the airport and congratulated them and had a reception for them and appeared on TV and newspapers with them proudly holding up their team banner. So this is a huge, huge deal for an awful lot of these schools and students around the world."
+
+
+
+The World Champions, Heintzman says, return home with trophies, other prizes and scholarships. More importantly, he adds, they are guaranteed an offer of employment or internship from IBM.
+
+
+
+"We've had past world champions that IBM employed in our Zurich research lab, [who] are now working on some of the leading-edge materials science and physics," he says. "We have a world finalist from China who's been working on the Watson Supercomputer that in the near future will be playing Jeopardy against the best Jeopardy players in the world. So this competition is an opportunity to be recognized and to be recruited by some of the top technology and research firms around the world."
+
+
+
+Contest spokesman Doug Heintzman notes that the world faces many complex problems, and bright and innovative young people everywhere can help create solutions. The Battle of the Brains, he says, is just one vehicle to identify these problem solvers and give them the chance to shape the future.
+
+
+

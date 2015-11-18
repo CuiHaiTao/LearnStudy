@@ -1,0 +1,10 @@
+grep -v "CMCS" E:\Task\train\tested\1feature\test_0010_pos    > E:\Task\train\tested\1feature\test_0010_pos1 
+grep -v "CMCS" E:\Task\train\tested\1feature\test_006_pos     > E:\Task\train\tested\1feature\test_006_pos1  
+grep -v "CMCS" E:\Task\train\tested\1feature\test_007_pos     > E:\Task\train\tested\1feature\test_007_pos1  
+grep -v "CMCS" E:\Task\train\tested\1feature\test_008_pos     > E:\Task\train\tested\1feature\test_008_pos1  
+grep -v "CMCS" E:\Task\train\tested\1feature\test_009_pos     > E:\Task\train\tested\1feature\test_009_pos1  
+grep -v "CMCS" E:\Task\train\tested\1feature\train_0010_pos   > E:\Task\train\tested\1feature\train_0010_pos1
+grep -v "CMCS" E:\Task\train\tested\1feature\train_006_pos    > E:\Task\train\tested\1feature\train_006_pos1 
+grep -v "CMCS" E:\Task\train\tested\1feature\train_007_pos    > E:\Task\train\tested\1feature\train_007_pos1 
+grep -v "CMCS" E:\Task\train\tested\1feature\train_008_pos    > E:\Task\train\tested\1feature\train_008_pos1 
+grep -v "CMCS" E:\Task\train\tested\1feature\train_009_pos    > E:\Task\train\tested\1feature\train_009_pos1 

@@ -1,0 +1,58 @@
+Before doing anything online, it's worth remembering that the Internet never forgets.  Our electronic networks that make so much information available to us are also quietly gathering informatio...If you've ever wondered just how much privacy you have online, consider Nick Bilton's recent Tweet.
+
+A reporter for the New York Times, Bilton recently posted an item via his Twitter account that set off international alarm bells.  It read:
+
+"Off record chat w/Facebook employee. Me: How does Zuck feel about privacy? Response: [laughter] He doesn't believe in it."
+
+"Zuck" in this case is Mark Zuckerberg, founder and CEO of the social networking giant Facebook - a company that collects, and increasingly shares, private information about you online.
+
+The alarms about eroding individual privacy in the digital world have been sounding for a while now.  Few seem to be listening.
+
+Among them is George Washington University professor Daniel Solove.  His book "The Future of Reputation," published in 2007, became a best-seller and it remains one of the most thorough explorations of privacy in the online/wireless networked world.
+
+Solove says it was one specific story that first inspired his work: "Dog Poop Girl."
+
+It began on a subway train in South Korea. A young woman's small dog pooped in the train. Other passengers asked her to clean it up. She refused, and an outraged fellow passenger took photos of her, the dog and the mess.  The photos were posted to a popular Korean blog - and that's when Solove says things got out of hand.
+
+"This 'cyber posse' amasses and posts personal information about her.  People start harassing her, they start ridiculing her, they start mocking her...it goes all around the world."
+
+Now forever known as - loosely translated - the "Dog Poop Girl," she dropped out of university and moved from Seoul. 
+
+"Before, someone would have just given her an angry stare on the subway," Solove says.  "Now, she's forever branded with a 'digital scarlet letter' that she's this horrible person. She'll never escape this."
+
+Then there's Ghyslain Raza, also known as the "Star Wars Kid."  He is a teenager in Canada with a golf ball retriever and an energetic fondness for Star Wars movies.   In 2002, he made a video.
+
+
+
+It wasn't meant for public consumption.  Says Solove, "He stuffed it away, but some of his tormentors found the video and loaded it up."  Loaded it up, as in posted it on YouTube for all the world to see.  
+
+
+
+"Tens of millions of people with comments all over the blogosphere," says Daniel Solove of the immediate response.  "People have made mash-ups of his video. There's about 20 to 30 different versions of it on YouTube."
+
+It's been estimated this video has been viewed over 900 million times. Raza's life became a torment.  He brought suit against the three other schoolmates who posted the video, and the case was settled out of court.  Still, Raza will never be able to erase his performance from the web.
+
+"Throughout his entire life he's going to be known as the Star Wars Kid, and that's probably going to be the most famous thing about his life," notes Solove.  "And should people have to live like that?"
+
+The Dog Poop Girl and the Star Wars kid were painfully aware they had lost all sense of privacy on the Internet. But millions of people have no clue data is being collected on them and shared with others. For example, Facebook constantly collects tidbits about you and uses this information to attract advertisers. This concerns privacy rights advocates such as Marc Rotenberg with the Electronic Privacy Information Center.
+
+
+
+"If you write in your status update, 'Heading towards Cincinnati this weekend, see you all soon,' Facebook will actually take that information and if a travel agency comes along, Facebook is basically saying, 'This is something someone just posted on their page, maybe you'll be interested in this person.'"
+
+And then there's Google, the largest online advertising host in the world. You may soon forget about web searches you make, but Google never does, according to Rotenberg. "This person is looking for apartments in Washington and on their next search they're looking for something else and on the third search something else still, now Google knows quite a lot about that person," he warns.
+
+Privacy advocates also are concerned about Google's relationship with the National Security Agency (NSA), the U.S. intelligence agency.  Recently Google was targeted by hackers in China, who gained access to Google's "Gaia" password system. Google was so alarmed, it asked the NSA to help it prevent future such attacks.
+
+
+
+"When you put powerful institutions together, you have to wonder," Rotenberg asks. "Google says they want more security, and NSA says they want more surveillance, so you end up with an agreement where everybody gets what they want and the public is left out."
+
+Google insists that the NSA will not be allowed access to any information the spy agency could use to violate the privacy rights of the tens of millions of Google searchers.   And what the Internet sees, it never forgets. This is something young people of the Internet generation should not forget, according to Daniel Solove.
+
+
+
+"They are the first generation to really live with the reality that the gossip, all the things that are going on in their high school and college, are going to be forever preserved on the Internet."
+
+
+

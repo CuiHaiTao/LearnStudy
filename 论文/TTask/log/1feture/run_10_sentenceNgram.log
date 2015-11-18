@@ -1,0 +1,160 @@
+She was very patient towards the children , which her husband seldom was .	NATC	ATC	0.991	0.008
+That 's where I first met her .	PC	PC	0.998	0.998
+The headmaster hopes everything goes well .	OC	CMPADVC	0.515	0.003
+I do n't care whether or not it will rain .	OC	OC	0.592	0.592
+The fact is that he does n't really try .	PC	AC	0.306	0.289
+His mother , who loves him very much , is strict with him .	ATC	NATC	0.975	0.014
+This is one of the basic reasons why some of our work ca n't be done well .	ATC	ATC	0.994	0.994
+I 'll let him go .	SS	SS	0.808	0.808
+He behaves as if he were a child .	MNRADVC	RADVC	0.980	0.007
+No matter when it rains , this river is flooded .	CCSADVC	CCSADVC	0.978	0.978
+I help him and he helps me .	CMAS	CMAS	0.772	0.772
+He had scarcely began his song when the audience shouted at him .	TADVC	ATC	0.772	0.203
+Soon came the order that all the people should obey the rules .	AC	AC	0.397	0.397
+He looks as though he had been hit by lightning .	MNRADVC	RADVC	0.701	0.022
+The two policemen were completely trusted , which in fact they were .	ATC	NATC	0.970	0.026
+Where the Communist Party of China goes , there the people are liberated .	WADVC	WADVC	0.448	0.448
+The situation which we had got into was very dangerous .	ATC	ATC	0.972	0.972
+He made a proposal that the meeting be postpone .	AC	AC	0.560	0.560
+They were worried over the fact that you were sick .	AC	AC	0.740	0.740
+He has to work on TIME , which he does n't like .	NATC	NATC	0.520	0.520
+It is difficult to answer your question how I did it .	AC	PC	0.672	0.040
+He has become what he wanted to be ten years ago .	PC	ATC	0.848	0.007
+The play , whose style is rigidly formal , is typical of the period .	NATC	ATC	0.990	0.009
+I will go providing that my expenses are paid .	CADVC	CADVC	0.990	0.990
+She must go now , for her boyfriend is waiting for her .	CMFS	CMFS	0.463	0.463
+Tell him which class you are in .	OC	ATC	0.909	0.005
+His head soon appeared out of the second storey windows , from where he could see nothing but trees .	ATC	NATC	0.970	0.020
+I read as many pages as they are required to be read .	CMPADVC	PADVC	0.932	0.004
+They treated the child as if she were their own .	MNRADVC	RADVC	0.958	0.013
+He hesitated about whether he should drive or take the train .	OC	OC	0.795	0.795
+Fame and personal gain is what they 're after .	PC	ATC	0.713	0.099
+It is doubtful whether she will be able to come .	SC	SC	0.924	0.924
+It looked as if there would be an exciting race .	MNRADVC	RADVC	0.321	0.210
+It is known to all that light travels in straight lines .	SC	ATC	0.785	0.090
+If I were you , I would invite him to the party .	CADVC	CADVC	0.929	0.929
+He feels no better today than he did yesterday .	CMPADVC	PADVC	0.950	0.011
+None of us knows where these new parts can be bought .	OC	ATC	0.790	0.011
+As we 've no money , we ca n't buy it .	RADVC	RADVC	0.950	0.950
+As is known to the PLACE , Mark Twain is a great American writer .	NATC	ATC	0.980	0.008
+He eats more than is good for him .	CMPADVC	PADVC	0.971	0.018
+This is the pen which he bought yesterday .	ATC	ATC	0.989	0.989
+This is why I am late .	PC	PC	0.803	0.803
+She looks very young , but she is already in her 30 's .	CMBS	NATC	0.259	0.212
+Which of the books that you bought yesterday was written by Bacon ?	ATC	ATC	0.772	0.772
+You must do as your parents tell you .	MNRADVC	RADVC	0.960	0.005
+Above the trees are the mountains , whose magnificence the river faithfully reflects on the surface .	NATC	ATC	0.994	0.004
+I have some things that I must do today .	ATC	OC	0.738	0.085
+We eat , sleep and work where our forefathers have lived and died .	WADVC	WADVC	0.898	0.898
+We discovered what we had learned to be valuable .	OC	OC	0.503	0.503
+Water , which is a clear liquid , has many uses .	ATC	ATC	0.522	0.522
+He looks as if he had been hit by lightning .	MNRADVC	RADVC	0.982	0.007
+He has to work on TIME , which he does n't like .	ATC	NATC	0.520	0.407
+When the war ended , millions had been killed .	TADVC	TADVC	0.881	0.881
+The room whose window faces south is mine .	ATC	ATC	0.978	0.978
+The problem is when we can get a pay rise .	PC	PC	0.975	0.975
+Here is the car that I had told you about .	ATC	ATC	0.728	0.728
+We will put off the outing until next week , when we wo n't be so busy .	NATC	ATC	0.960	0.014
+He fell off his horse as if he had been shot .	MNRADVC	RADVC	0.978	0.004
+The work did not go so smoothly as we hoped .	PADVC	CMPADVC	0.966	0.009
+She will keep on singing unless she is told to stop .	CADVC	CADVC	0.693	0.693
+Please tell us what they bought in the mall yesterday .	OC	OC	0.967	0.967
+If you run back over the season , you ca n't pick out a game in which he played badly .	ATC	ATC	0.890	0.890
+PLACE is no longer what she used to be .	PC	PC	0.963	0.963
+He may have acute appendicitis , in which case he will have to be operated on .	ATC	NATC	0.969	0.028
+However talented a man may be , the collective will always be wiser and stronger .	CCSADVC	CCSADVC	0.338	0.338
+That is where he was born .	PC	PC	0.969	0.969
+He is the only one of us that knows Russian .	ATC	ATC	0.997	0.997
+As water is to fish , so air is to man .	RADVC	MNRADVC	0.932	0.001
+Light is the fast thing in the world , the speed of which is 300000 kilometer per second .	ATC	NATC	0.968	0.032
+While my wife was reading the newspaper , I was watching TV .	TADVC	TADVC	0.585	0.585
+The question is whether we can rely on him .	PC	PC	0.990	0.990
+The clouds has disappeared as if they had done by magic .	MNRADVC	RADVC	0.968	0.011
+He who laughs last laughs best .	ATC	SS	0.384	0.117
+This is the very book that I have been looking for .	ATC	ATC	0.955	0.955
+Though all the world were against me , I would still hold to my opinion .	CCSADVC	TADVC	0.463	0.389
+The boy , whose father is an engineer , studies very hard .	ATC	NATC	0.961	0.037
+These apple trees , which I planted three years ago , have not borne any fruit .	ATC	NATC	0.986	0.013
+Hard as he works , he makes little progress .	CCSADVC	CCSADVC	0.965	0.965
+He gave the book to his sister .	SS	SS	0.459	0.459
+Yesterday I helped an old man who had lost his way .	ATC	ATC	0.938	0.938
+It looked as if there would be an exciting race .	RADVC	RADVC	0.321	0.321
+It looked as if it was going to rain .	PC	RADVC	0.729	0.007
+I like you the more , the more I know you .	CMPADVC	PADVC	0.952	0.009
+The journey , which I remember well , was very pleasant .	ATC	ATC	0.933	0.933
+I gave him old clothes which he made a penny of .	ATC	ATC	0.951	0.951
+Angles , whose native language is German , can read and write in several foreign languages .	NATC	ATC	0.985	0.007
+The order that we should send a few people to help the other groups was received yesterday .	AC	PADVC	0.553	0.015
+He will take the job providing that he may do it in his own time .	CADVC	OC	0.513	0.246
+Xi'an , which I visited last year , is a nice old city .	ATC	NATC	0.976	0.023
+I went off in search of a garage where I could buy some petrol .	ATC	ATC	0.323	0.323
+He looks as though he had been hit by lightning .	RADVC	RADVC	0.701	0.701
+Wherever you work , you will gain much valuable experience as long as you are willing to work .	WADVC	CCSADVC	0.837	0.020
+You 'll have to attend the ceremony whether you 're free or busy .	CCSADVC	OC	0.606	0.001
+The boss asked the secretary to hurry up with the letters so that he could sign them .	PADVC	PADVC	0.539	0.539
+The man whom we sent the present to is a doctor of laws .	ATC	ATC	1.000	1.000
+Whatever happened , he would not mind .	CCSADVC	CCSADVC	0.687	0.687
+Now it was as though she had known Millie for years .	PC	RADVC	0.416	0.015
+We 'll make a trip even if the weather is bad .	CCSADVC	CCSADVC	0.648	0.648
+Jenney dreams of the day when she will be playing the piano for a living .	ATC	ATC	0.979	0.979
+No matter how hard I have tried , I can not find the answer .	CCSADVC	CCSADVC	0.985	0.985
+It was the largest map that I ever saw .	ATC	ATC	0.780	0.780
+She worked hard in order to be ready by 5 o'clock .	PADVC	PADVC	0.554	0.554
+We 'll be told tomorrow whether we should take the exam or not .	OC	AC	0.277	0.202
+He has solved the problem why the radio was out of order .	AC	PC	0.490	0.171
+he was more agreeable than he was last night .	CMPADVC	PADVC	0.971	0.010
+Whether she is coming or not does n't matter too much .	SC	SC	0.849	0.849
+They went to PLACE , where they lived for six months .	NATC	ATC	0.963	0.005
+The house is where Lu Xun once lived .	PC	ATC	0.777	0.194
+Although he was exhausted , still he kept on working .	CCSADVC	CCSADVC	0.994	0.994
+We have to go where everybody has to go .	WADVC	WADVC	0.870	0.870
+The police have pulled in a half dozen people whom they suspect .	ATC	ATC	0.932	0.932
+He left early in case he should miss the train .	PADVC	PADVC	0.597	0.597
+Xiao Wang has solved the problem why the TV was out of order .	AC	PC	0.335	0.130
+The old man has a son , who is in the army .	NATC	ATC	0.975	0.021
+Polly is the most direct young woman that I have ever come across .	ATC	ATC	0.911	0.911
+Good technique means less pain and fewer deaths ; therefore it ?? s our duty to master it .	CMFS	PADVC	0.312	0.003
+What you need is more practice .	SC	SC	0.863	0.863
+He saw the girl , which delighted him .	NATC	ATC	0.973	0.022
+He walked forward as though making a speech .	RADVC	MNRADVC	0.910	0.054
+Peter was so excited when he received invitation from his friend to visit PLACE .	TADVC	TADVC	0.634	0.634
+I am happy that I have passed the exam .	OC	OC	0.967	0.967
+She is an artist , which I am not .	ATC	NATC	0.961	0.037
+It was really astonishing that he refused to talk to you .	SC	ATC	0.309	0.085
+I have found out that all the tickets for the concert have been sold out .	OC	OC	0.826	0.826
+The question is whether the film is worth seeing .	PC	PC	0.780	0.780
+He woke up as suddenly as he had fallen asleep .	PADVC	CMPADVC	0.943	0.003
+Whatever you say , I wo n't believe you .	CCSADVC	CCSADVC	0.868	0.868
+He asked whose handwriting was the best .	OC	ATC	0.925	0.026
+I am punishing the child lest he should make the same mistake .	PADVC	PADVC	0.860	0.860
+The possibility that the majority of the labour force will work at home is often discussed .	AC	ATC	0.510	0.235
+Not only is he our teacher , but also he is our friend .	CMAS	CMAS	0.926	0.926
+It is such nice weather that I would like to go to the beach .	RSLADVC	SC	0.846	0.003
+He did n't tell me when we should meet again .	OC	OC	0.568	0.568
+He opened his lips as if he was going to say something .	MNRADVC	RADVC	0.962	0.008
+He hurriedly left the moon as though she were angry .	RADVC	MNRADVC	0.958	0.008
+I feel sorry for famous people who live their lives in the glare of publicity .	ATC	ATC	0.986	0.986
+If you want to lose weight you should eat less bread .	CADVC	CADVC	0.951	0.951
+The youth of today are better off than we used to be .	PADVC	CMPADVC	0.960	0.010
+I was deep in gambling when the police entered .	TADVC	ATC	0.742	0.201
+He is absorbed in work , as he often was .	ATC	NATC	0.952	0.023
+I went to bed at ten , before when I was reading for an hour .	ATC	NATC	0.946	0.018
+I not only heard it but also saw it .	CMAS	CMAS	0.930	0.930
+Water , which is a clear liquid , has many uses .	NATC	ATC	0.522	0.469
+It does not make any difference whether it rains or not .	SC	SC	0.808	0.808
+The thought came to him that maybe the enemy had fled the city .	AC	AC	0.437	0.437
+The girl with whom he had been living for two years suddenly packed her bags and left .	ATC	ATC	0.984	0.984
+That you will win the medal seems unlikely .	SC	SC	0.864	0.864
+Whether you believe it or not , it 's true .	CCSADVC	CCSADVC	0.849	0.849
+The question who should do the work requires consideration .	AC	AC	0.651	0.651
+I am as you can imagine short of money .	RADVC	MNRADVC	0.955	0.009
+If you ask him , he will help you .	CADVC	CADVC	0.420	0.420
+The reason why he was punished is unknown to us .	ATC	ATC	0.988	0.988
+The longer the treatment is delayed , the worse the prognosis will be .	CMPADVC	PADVC	0.963	0.002
+You 'll fail in French unless you work harder .	CADVC	TADVC	0.510	0.328
+he had been arrested and he was imprisoned .	CMAS	CMAS	0.349	0.349
+The custom dates from the times when men wore swords .	ATC	TADVC	0.530	0.304
+I dislike the school to which he belongs .	ATC	ATC	0.979	0.979
+PLACE , which was founded in TIME , is becoming more and more powerful .	NATC	ATC	0.978	0.021
+The trouble is that we are short of funds .	PC	PC	0.620	0.620
+Is he the man that sells eggs ?	ATC	ATC	0.998	0.998

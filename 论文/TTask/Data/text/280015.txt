@@ -1,0 +1,31 @@
+Health workers all over the world are on the lookout for the Severe Acute Respiratory Syndrome virus, which spread after originating in China late last year.  One of the most sophisticated earl...Health workers all over the world are on the lookout for the Severe Acute Respiratory Syndrome virus, which spread after originating in China late last year. One of the most sophisticated early warning systems for tracking diseases is in New York City.
+
+Over three days last month, the number of patients with a high fever and respiratory problems jumped at an alarming rate at one emergency room in New York City.
+
+Hospital workers did not notice the pattern. But the city's high-tech surveillance system did and took it for an outbreak of the SARS virus. As it turned out, it was a statistical anomaly, not the epidemic spreading across Asia.
+
+The head of surveillance at New York's Department of Health, Doctor Don Weiss, explains that the early warning system sends information from emergency rooms to a central tracking network. "Walk to the triage [emergency] clerk and say I am here, I am sick, I have had the worst headache I have ever had in my life. That information gets recorded electronically and transmitted to us between 5:00 and 7:00 am the next morning. And we can code that," says Dr. Weiss. "Headache goes into the other category, if you said you had a cough and fever it would go to the respiratory category. And then we monitor that from all throughout the city and with a statistical algorithm [formula] and program we can detect whether or not what is happening today is different from what we expected based on the past."
+
+Developed in the early 1990s, New York's cutting edge system has changed with the times. What began as a rudimentary paper method for recording emergency calls has evolved into a computerized system for monitoring epidemics and detecting biological attacks.
+
+Since the September 11, 2001, terrorist attacks and a subsequent anthrax scare, the system has searched for aberrations by analyzing key symptoms from thousands of daily emergency calls, emergency room visits and prescriptions.
+
+Ralph Timperi, an epidemiologist for the State of Massachusetts, says old-fashioned case reporting is the backbone of surveillance. Mr. Timperi says China, which is under international scrutiny for failing to report SARS early on, had a detection system in place but did not follow through. "The issue, it seems to me, from China has been, not so much that they were not detecting it. I am sure they were detecting it. But how quickly they made that information widely available on an international level," he says. "I am sure their reporting system was picking it up and identifying it. Now, because they are in an active surveillance mode, obviously [they are] finding more cases."
+
+According to the World Health Organization, which created a global disease reporting system, China has kept meticulous records, which stand in piles awaiting analysis in Guangdong Province, where SARS is believed to have begun.
+
+Detection systems vary nationally and internationally, depending on computer resources and molecular testing.
+
+Mr. Timperi, who also teaches at Harvard University's School of Public Health, says that delays in reporting of disease patterns are expected throughout China and much of the world, where computer systems are not in place to quickly analyze the information coming in. "Computers were certainly a big step forward in disease reporting, timely reporting," he says. "So in countries that do not have the resources, and it is very expensive to set up these information systems, these real time reporting systems, [those] that do not have those systems operating are going to have delays in disease reporting. And when there are outbreaks, you learn about them later in the course of the outbreak."
+
+China has admitted to under-reporting the disease and at least two high level Chinese officials have been removed from their posts.
+
+So far, China has reported more than 90 deaths and more than two-thousand people infected with the virus. The number of suspected cases of SARS is also rising both in Asia and worldwide, predominantly among health workers.
+
+New York's Dr. Don Weiss says although the city has only reported about a dozen suspected SARS cases, it relies on its citywide system as fear of the epidemic spreads. "I think we are pleased with the system," he says. "It does provide a lot of comfort in situations where if there was a widespread outbreak of SARS in New York City we would expect it to be signaling. And it is not [signaling] when nothing is going it [so] it is more comfortable."
+
+Dr. Weiss says that the system works better for detecting disease patterns among large numbers of people in concentrated areas.
+
+New York City's tracking system, which costs about one-million dollars a year, was successful in identifying early signs of the gastrointestinal Norwalk Virus that hit cruise ships last year. It also picked up signs of the West Nile Virus in 1999, which had never been seen before in the Western Hemisphere.
+
+Statewide surveillance teams report their findings to the national system run by the Center for Disease Control.

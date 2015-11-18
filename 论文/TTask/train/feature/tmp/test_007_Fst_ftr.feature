@@ -1,0 +1,160 @@
+Att_SecondFeature
+First_ApposFeature Tadv_FirstFeature
+Cmpadv_FirstFeature
+NoN
+Att_FirstFeature Att_SecondFeature
+CMRS_A
+Cmpadv_FirstFeature
+NoN
+Wadv_FirstFeature
+CMRS_A
+CMRS_A
+O_ThirdFeature
+Att_SecondFeature Ccsadv_FirstFeature Mnradv_FirstFeature
+PRD_FirstFeature
+O_ThirdFeature Cmpadv_FirstFeature
+NoN
+Att_SecondFeature Cmpadv_FirstFeature
+NoN
+Att_SecondFeature
+Ccsadv_FirstFeature
+NoN
+PRD_FirstFeature First_ApposFeature
+Tadv_FirstFeature CMAS_A
+Rsladv_FirstFeature
+NoN
+CMRS_A
+NoN
+O_ThirdFeature
+NoN
+O_FirstFeature
+NoN
+First_ApposFeature
+O_ThirdFeature Att_SecondFeature
+Att_SecondFeature
+Cadv_FirstFeature
+NoNP1
+Att_SecondFeature
+NoN
+Att_FirstFeature
+Cadv_FirstFeature
+O_ThirdFeature Att_SecondFeature Rsladv_FirstFeature
+NoN
+Cadv_FirstFeature
+Att_FirstFeature Natt_FirstFeature
+NoN
+CMRS_A
+Att_SecondFeature Ccsadv_FirstFeature CMCS_A
+Tadv_FirstFeature
+First_ApposFeature Wadv_FirstFeature
+CMRS_A
+Att_FirstFeature
+O_ThirdFeature Tadv_FirstFeature
+CMAS_A CMCS_A
+O_SecondFeature O_ThirdFeature
+Att_FirstFeature
+Ccsadv_FirstFeature Ccsadv_FirstFeature Mnradv_FirstFeature
+Cmpadv_FirstFeature
+Att_SecondFeature Ccsadv_FirstFeature Ccsadv_FirstFeature Mnradv_FirstFeature
+Att_SecondFeature Pradv_FirstFeature
+Ccsadv_FirstFeature
+O_ThirdFeature First_ApposFeature
+NoN
+NoN
+NoN
+Att_SecondFeature
+O_SecondFeature O_SecondFeature Wadv_FirstFeature
+First_ApposFeature
+Att_FirstFeature
+First_ApposFeature
+Tadv_FirstFeature CMAS_A
+O_ThirdFeature Att_SecondFeature
+NoN
+Tadv_FirstFeature
+Cadv_FirstFeature
+Att_FirstFeature Att_SecondFeature
+NoN
+SS_A
+Tadv_FirstFeature
+First_ApposFeature
+Ccsadv_FirstFeature Mnradv_FirstFeature
+O_FirstFeature
+Pradv_FirstFeature
+NoNP1 Att_SecondFeature
+Att_SecondFeature
+First_ApposFeature Pradv_FirstFeature
+PRD_FirstFeature Ccsadv_FirstFeature Ccsadv_FirstFeature Ccsadv_FirstFeature
+Att_FirstFeature
+Att_SecondFeature
+NoN
+NoN
+Att_FirstFeature Att_SecondFeature
+First_ApposFeature
+SS_A
+Att_SecondFeature Cadv_FirstFeature
+NoN
+NoN
+CMAS_A CMBS_A
+Att_FirstFeature
+Att_SecondFeature Mnradv_FirstFeature
+SS_A
+O_ThirdFeature
+Att_FirstFeature Att_SecondFeature
+Cadv_FirstFeature CMAS_A
+Cadv_FirstFeature
+PRD_FirstFeature Ccsadv_FirstFeature
+Att_FirstFeature Att_SecondFeature
+O_ThirdFeature Wadv_FirstFeature
+Cadv_FirstFeature
+Att_SecondFeature
+Tadv_FirstFeature
+Att_SecondFeature
+CMRS_A
+Att_SecondFeature Rsladv_FirstFeature
+Att_FirstFeature
+NoN
+O_SecondFeature
+NoN
+Att_SecondFeature
+Att_FirstFeature
+Att_SecondFeature Pradv_FirstFeature
+Att_SecondFeature
+Att_FirstFeature Att_SecondFeature
+First_ApposFeature
+NoN
+Att_SecondFeature Ccsadv_FirstFeature Ccsadv_FirstFeature Mnradv_FirstFeature
+NoN
+NoN
+Att_SecondFeature
+Att_FirstFeature Att_SecondFeature
+O_ThirdFeature Att_FirstFeature Ccsadv_FirstFeature
+Tadv_FirstFeature
+Att_FirstFeature
+Ccsadv_FirstFeature
+PRD_FirstFeature
+NoN
+Pradv_FirstFeature
+CMRS_A
+Tadv_FirstFeature Tadv_FirstFeature
+NoN
+Att_SecondFeature
+NoN
+Att_FirstFeature Att_SecondFeature Cmpadv_FirstFeature
+Cadv_FirstFeature
+First_ApposFeature
+NoN
+Att_SecondFeature Cmpadv_FirstFeature
+Ccsadv_FirstFeature Mnradv_FirstFeature
+Att_SecondFeature Tadv_SecondFeature Cmpadv_FirstFeature
+Tadv_FirstFeature
+CMAS_A CMBS_A
+Tadv_FirstFeature
+Att_SecondFeature
+Cmpadv_FirstFeature
+Att_SecondFeature Cmpadv_FirstFeature
+Tadv_FirstFeature
+SS_A
+Ccsadv_FirstFeature
+NoN
+Ccsadv_FirstFeature
+Att_FirstFeature Att_SecondFeature

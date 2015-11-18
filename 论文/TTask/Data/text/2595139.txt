@@ -1,0 +1,54 @@
+The FBI is investigating the cyber attack against Twitter and YouTube accounts belonging to the U.S. Central Command, which oversees the U.S.-led airstrikes on Islamic State in Iraq and Syria.
+...The FBI is investigating the cyber attack against Twitter and YouTube accounts belonging to the U.S. Central Command, which oversees the U.S.-led airstrikes on Islamic State in Iraq and Syria.
+
+Hackers who say they are loyal to Islamic State briefly hijacked the accounts Monday, threatening U.S. soldiers with the message "We are coming, watch your back. ISIS."
+
+Other messages included links to documents appearing to contain telephone numbers and email and home addresses of dozens of U.S. military officials. They also showed what appeared to be leaked military maps of China and North Korea.
+
+CENTCOM says its military operations were not compromised, and its initial assessment is that the hackers had no access to classified information.
+
+The command says it sees the hacking purely as a case of cyber vandalism.
+
+At a regular press briefing, White House spokesman Josh Earnest said the incident is "something we are looking into and it is something we take seriously."
+
+"I don't have a lot of information on this, it just occurred within the last hour or so.  However, just a note of caution, for folks as they are covering this story, there is a pretty significant difference between what is a large data breech and the hacking of a twitter account. We're still examining and investigating this incident, but I don't have any information beyond that," said Earnest.
+
+"This is little more than an act of, than a prank or vandalism, and it's inconvenient, and it's an annoyance, but that's all it is," said Warren.
+
+Follow-up tweets included links to documents that appeared to contain the telephone numbers and email addresses of dozens of U.S. military officials. Central Command said that its initial assessment showed no classified information was posted during the attack. Warren said the social media account breech was an issue within YouTube and Twitter and did not actually break into any government networks.
+
+"There's no evidence that any DOD [Department of Defense] system, any DOD computer, any DOD network has in any way been compromised or breached," said Warren.
+
+Isaac Porche, a cyber security analyst for the RAND Corporation agreed with Warren and called the attack a "public headache."
+
+"In terms of sensitivity, these accounts are not supposed to be tied to any sensitive databases. So it's slightly embarrassing, yes, but it's not quite clear that it's damaging," said Porche.
+
+No security threat seen
+
+ 
+
+ Analysts say the hack does not represent a security threat. Isaac Porche, a cyber security analyst for the RAND Corporation, tells VOA the incident basically amounts to a "public relations headache."
+
+"You hope that you don't get hacked and you're not left open as a vehicle for others to use your [social media] account. But in terms of sensitivity, these accounts are not supposed to be tied to any sensitive databases. So it's slightly embarrassing, yes, but it's not quite clear that it's damaging," said he.
+
+Porche and other analysts say no classified or sensitive documents appear to have been leaked. Some of the material had already been available on the Internet and was not sensitive.
+
+In some cases, the material posted on CENTCOM's Twitter appeared juvenile or incoherent, including one picture of a goat in an office with the caption "we are in your PCs" and a profile photo that contained the message, "I Love You, ISIS."
+
+Based at MacDill Air Force Base in Tampa, Florida, CENTCOM oversees the U.S.-led air war against the Islamic State group in Iraq and Syria.
+
+Hackers claiming allegiance to the Islamic State had previously taken over the Twitter accounts of several news organizations in the states of Maryland and New Mexico.  Some of the threats and hashtags in those cases appeared similar to the tweets that appeared on CENTCOM’s Twitter account Monday.
+
+The Monday hack attacks took place at the same time President Barack Obama was delivering a speech on expanding cyber security.
+
+In a speech Monday, at the Federal Trade Commission in Washington, D.C., Obama said data hacking presents a direct threat to American consumers.
+
+"As we've all been reminded over the past year, including the hack of Sony, this extraordinary interconnection creates enormous opportunities, but also creates enormous vulnerabilities for us as a nation and for our economy, and for individual families," the president said.
+
+In outlining newly proposed legislation, Obama said companies will have to alert customers within 30 days if their personal data has been compromised. The move follows several major security hacks at some of the country's largest retailers, including Target and Home Depot.
+
+Other proposals include providing adults with free access to their credit scores and preventing student data from being sold to a third party.
+
+The proposals are expected to make up part of the president's State of the Union address on January 20. It is unclear whether the Republican-led Congress will take up either of the proposals.
+
+Zlatica Hoke contributed to this report and Carla Babb contributed to this story from the Pentagon.
